@@ -4,3 +4,11 @@ __pycache__/
 .pipeline_state.json
 node_modules/
 .next/
+
+# temp ETL files
+etl/_batch_*.sql
+etl/_chunk_*.json
+etl/_all_inserts.json
+etl/_gen_batches.py
+etl/_seed_db.py
+etl/_insert_via_http.py
