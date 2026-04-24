@@ -1,0 +1,494 @@
+student_id,Department,Gender,HSC,SSC,Income,Hometown,Computer,Preparation,Gaming,Attendance,Job,English,Extra,Semester,Last,Overall
+res_0,Business Administration,Male,4.17,4.84,"Low (Below 15,000)",Village,3,More than 3 Hours,0-1 Hour,80%-100%,No,3,Yes,6th,3.22,3.35
+res_1,Business Administration,Female,4.92,5.0,"Upper middle (30,000-50,000)",City,3,0-1 Hour,0-1 Hour,80%-100%,No,3,Yes,7th,3.467,3.467
+res_2,Business Administration,Male,5.0,4.83,"Lower middle (15,000-30,000)",Village,3,0-1 Hour,More than 3 Hours,80%-100%,No,4,Yes,3rd,4.0,3.72
+res_3,Business Administration,Male,4.0,4.5,"High (Above 50,000)",City,5,More than 3 Hours,More than 3 Hours,80%-100%,No,5,Yes,4th,3.8,3.75
+res_4,Business Administration,Female,2.19,3.17,"Lower middle (15,000-30,000)",Village,3,0-1 Hour,2-3 Hours,80%-100%,No,3,Yes,4th,3.94,3.94
+res_5,Computer Science and Engineering,Male,4.75,4.05,"Lower middle (15,000-30,000)",Village,3,0-1 Hour,More than 3 Hours,Below 40%,No,4,No,2nd,1.0,1.0
+res_6,Computer Science and Engineering,Male,4.42,5.0,"High (Above 50,000)",Village,4,0-1 Hour,More than 3 Hours,60%-79%,No,2,No,2nd,1.06,1.06
+res_7,Computer Science and Engineering,Male,4.5,4.81,"Upper middle (30,000-50,000)",City,3,2-3 Hours,More than 3 Hours,80%-100%,No,4,Yes,11th,2.95,1.25
+res_8,Computer Science and Engineering,Male,3.32,4.5,"Low (Below 15,000) ",City,4,0-1 Hour,More than 3 Hours,Below 40%,No,3,Yes,5th,1.42,1.44
+res_9,Computer Science and Engineering,Female,3.33,4.95,"Lower middle (15,000-30,000) ",City,3,0-1 Hour,More than 3 Hours,Below 40%,No,4,No,2nd,1.5,1.5
+res_10,Computer Science and Engineering,Male,4.17,5.0,"Lower middle (15,000-30,000)",Village,3,0-1 Hour,More than 3 Hours,Below 40%,No,4,No,2nd,1.56,1.56
+res_11,Computer Science and Engineering,Male,3.58,4.56,"Upper middle (30,000-50,000)",Village,4,0-1 Hour,More than 3 Hours,Below 40%,No,4,No,9th,1.57,1.57
+res_12,Computer Science and Engineering,Male,4.5,4.75,"Lower middle (15,000-30,000)",Village,1,0-1 Hour,More than 3 Hours,60%-79%,No,2,Yes,8th,1.57,1.57
+res_13,Computer Science and Engineering,Male,4.5,4.75,"Upper middle (30,000-50,000)",Village,1,0-1 Hour,More than 3 Hours,60%-79%,No,2,No,8th,1.0,1.6
+res_14,Computer Science and Engineering,Male,3.83,5.0,"Low (Below 15,000)",Village,2,0-1 Hour,More than 3 Hours,Below 40%,No,4,No,2nd,1.62,1.62
+res_15,Computer Science and Engineering,Male,4.33,4.64,"Lower middle (15,000-30,000) ",City,5,0-1 Hour,More than 3 Hours,Below 40%,No,4,No,2nd,1.69,1.69
+res_16,Computer Science and Engineering,Female,4.51,4.75,"Lower middle (15,000-30,000)",Village,1,0-1 Hour,More than 3 Hours,60%-79%,No,2,Yes,8th,1.83,1.71
+res_17,Computer Science and Engineering,Male,4.5,4.75,"Lower middle (15,000-30,000)",Village,1,0-1 Hour,More than 3 Hours,60%-79%,No,2,No,2nd,1.69,1.72
+res_18,Computer Science and Engineering,Male,3.92,4.72,"High (Above 50,000)",Village,3,0-1 Hour,More than 3 Hours,60%-79%,No,2,No,5th,1.33,1.75
+res_19,Computer Science and Engineering,Male,3.92,5.0,"High (Above 50,000)",Village,4,0-1 Hour,More than 3 Hours,60%-79%,No,2,Yes,2nd,1.75,1.75
+res_20,Computer Science and Engineering,Male,4.08,5.0,"Low (Below 15,000)",Village,3,0-1 Hour,More than 3 Hours,60%-79%,No,2,No,2nd,1.25,1.75
+res_21,Computer Science and Engineering,Male,3.67,4.86,"Lower middle (15,000-30,000)",City,2,0-1 Hour,0-1 Hour,80%-100%,No,3,Yes,3rd,1.79,1.8
+res_22,Computer Science and Engineering,Male,4.0,5.0,"Lower middle (15,000-30,000)",City,3,0-1 Hour,More than 3 Hours,60%-79%,No,2,No,2nd,1.63,1.86
+res_23,Computer Science and Engineering,Male,3.75,4.73,"Upper middle (30,000-50,000)",Village,5,0-1 Hour,More than 3 Hours,60%-79%,No,4,Yes,2nd,1.88,1.88
+res_24,Computer Science and Engineering,Male,3.5,5.0,"Upper middle (30,000-50,000)",City,1,0-1 Hour,More than 3 Hours,60%-79%,No,4,No,5th,1.89,1.89
+res_25,Computer Science and Engineering,Male,4.2,5.0,"Upper middle (30,000-50,000)",City,4,0-1 Hour,More than 3 Hours,Below 40%,No,4,No,9th,1.45,1.9
+res_26,Computer Science and Engineering,Female,4.58,4.94,"High (Above 50,000)",Village,3,0-1 Hour,More than 3 Hours,Below 40%,No,4,No,5th,1.33,1.9
+res_27,Computer Science and Engineering,Male,3.0,4.06,"Low (Below 15,000)",Village,3,0-1 Hour,More than 3 Hours,60%-79%,No,4,No,2nd,1.92,1.92
+res_28,Computer Science and Engineering,Male,4.17,5.0,"Lower middle (15,000-30,000)",City,3,2-3 Hours,More than 3 Hours,60%-79%,No,3,No,2nd,2.06,1.97
+res_29,Computer Science and Engineering,Male,4.42,5.0,"Lower middle (15,000-30,000)",City,3,0-1 Hour,0-1 Hour,60%-79%,No,2,No,11th,2.33,2.0
+res_30,Computer Science and Engineering,Male,4.0,4.78,"Low (Below 15,000)",Village,3,2-3 Hours,More than 3 Hours,60%-79%,No,4,Yes,8th,2.16,2.0
+res_31,Computer Science and Engineering,Male,4.5,4.75,"Low (Below 15,000) ",Village,1,0-1 Hour,More than 3 Hours,60%-79%,No,2,No,5th,1.5,2.02
+res_32,Computer Science and Engineering,Male,4.5,4.75,"Lower middle (15,000-30,000)",Village,1,0-1 Hour,More than 3 Hours,60%-79%,No,2,No,8th,1.64,2.1
+res_33,Computer Science and Engineering,Male,3.5,4.78,"High (Above 50,000)",Village,2,0-1 Hour,More than 3 Hours,Below 40%,No,4,No,5th,1.33,2.1
+res_34,Computer Science and Engineering,Male,3.82,5.0,"Lower middle (15,000-30,000)",City,4,2-3 Hours,More than 3 Hours,60%-79%,No,4,No,3rd,2.5,2.1
+res_35,Computer Science and Engineering,Male,4.5,5.0,"High (Above 50,000)",Village,4,0-1 Hour,More than 3 Hours,40%-59%,Yes,4,No,10th,2.23,2.17
+res_36,Computer Science and Engineering,Female,4.58,3.96,"Upper middle (30,000-50,000)",City,3,0-1 Hour,More than 3 Hours,40%-59%,No,4,No,8th,2.11,2.17
+res_37,Computer Science and Engineering,Male,3.23,4.33,"Low (Below 15,000)",City,3,0-1 Hour,More than 3 Hours,40%-59%,No,4,No,3rd,2.17,2.17
+res_38,Computer Science and Engineering,Male,2.17,4.33,"Upper middle (30,000-50,000)",Village,1,0-1 Hour,More than 3 Hours,40%-59%,No,4,No,3rd,2.08,2.17
+res_39,Computer Science and Engineering,Male,3.67,4.28,"Upper middle (30,000-50,000)",City,5,0-1 Hour,More than 3 Hours,60%-79%,No,4,Yes,5th,1.94,2.2
+res_40,Computer Science and Engineering,Male,3.8,4.94,"Lower middle (15,000-30,000)",Village,3,0-1 Hour,More than 3 Hours,60%-79%,No,4,No,9th,2.0,2.22
+res_41,Computer Science and Engineering,Male,3.25,4.94,"High (Above 50,000)",Village,3,0-1 Hour,More than 3 Hours,40%-59%,No,4,No,9th,2.25,2.25
+res_42,Computer Science and Engineering,Female,4.5,4.75,"High (Above 50,000)",Village,1,2-3 Hours,More than 3 Hours,60%-79%,No,4,Yes,7th,2.25,2.25
+res_43,Computer Science and Engineering,Male,4.0,4.72,"Upper middle (30,000-50,000)",Village,3,0-1 Hour,More than 3 Hours,40%-59%,No,4,No,2nd,2.25,2.25
+res_44,Computer Science and Engineering,Male,3.42,4.78,"Lower middle (15,000-30,000)",Village,2,0-1 Hour,More than 3 Hours,40%-59%,No,4,No,2nd,2.25,2.25
+res_45,Computer Science and Engineering,Male,4.0,5.0,"High (Above 50,000)",Village,2,2-3 Hours,More than 3 Hours,60%-79%,No,3,Yes,2nd,2.31,2.28
+res_46,Computer Science and Engineering,Male,3.33,4.19,"High (Above 50,000)",Village,4,0-1 Hour,More than 3 Hours,40%-59%,No,4,No,9th,2.3,2.3
+res_47,Computer Science and Engineering,Male,4.25,4.38,"High (Above 50,000) ",City,3,2-3 Hours,More than 3 Hours,60%-79%,No,4,Yes,7th,2.25,2.3
+res_48,Computer Science and Engineering,Male,3.75,5.0,"Lower middle (15,000-30,000)",City,3,0-1 Hour,More than 3 Hours,40%-59%,No,3,No,2nd,2.31,2.31
+res_49,Computer Science and Engineering,Female,3.58,5.0,"Lower middle (15,000-30,000)",Village,4,0-1 Hour,More than 3 Hours,40%-59%,No,4,No,2nd,2.31,2.31
+res_50,Computer Science and Engineering,Male,4.25,5.0,"High (Above 50,000)",Village,4,0-1 Hour,More than 3 Hours,40%-59%,No,4,No,2nd,2.31,2.31
+res_51,Computer Science and Engineering,Female,4.5,4.75,"Upper middle (30,000-50,000)",Village,1,More than 3 Hours,More than 3 Hours,60%-79%,No,3,No,5th,2.44,2.33
+res_52,Computer Science and Engineering,Female,3.83,4.94,"High (Above 50,000)",Village,1,0-1 Hour,More than 3 Hours,40%-59%,No,4,No,5th,2.33,2.33
+res_53,Computer Science and Engineering,Male,3.08,4.22,"Lower middle (15,000-30,000)",Village,1,0-1 Hour,More than 3 Hours,40%-59%,No,4,No,3rd,2.33,2.33
+res_54,Computer Science and Engineering,Male,3.67,4.91,"Upper middle (30,000-50,000)",City,2,0-1 Hour,More than 3 Hours,40%-59%,No,4,No,3rd,2.33,2.33
+res_55,Computer Science and Engineering,Male,5.0,4.75,"High (Above 50,000)",City,3,0-1 Hour,More than 3 Hours,40%-59%,Yes,4,No,9th,2.39,2.35
+res_56,Computer Science and Engineering,Male,4.56,4.82,"Lower middle (15,000-30,000)",Village,5,0-1 Hour,More than 3 Hours,40%-59%,No,4,Yes,8th,2.35,2.35
+res_57,Computer Science and Engineering,Male,5.0,4.72,"High (Above 50,000)",Village,4,0-1 Hour,More than 3 Hours,40%-59%,No,5,Yes,6th,2.35,2.35
+res_58,Computer Science and Engineering,Male,3.92,5.0,"Lower middle (15,000-30,000)",Village,4,0-1 Hour,More than 3 Hours,40%-59%,No,4,No,2nd,2.38,2.38
+res_59,Computer Science and Engineering,Male,4.42,4.32,"Upper middle (30,000-50,000)",Village,2,0-1 Hour,More than 3 Hours,40%-59%,No,4,No,2nd,2.38,2.38
+res_60,Computer Science and Engineering,Female,3.42,4.14,"High (Above 50,000)",City,4,0-1 Hour,More than 3 Hours,40%-59%,No,4,No,2nd,2.38,2.38
+res_61,Computer Science and Engineering,Female,4.0,5.0,"High (Above 50,000)",Village,3,0-1 Hour,More than 3 Hours,40%-59%,No,4,No,2nd,2.38,2.38
+res_62,Computer Science and Engineering,Female,4.5,4.75,"Lower middle (15,000-30,000)",Village,1,2-3 Hours,More than 3 Hours,60%-79%,No,2,No,10th,2.41,2.41
+res_63,Computer Science and Engineering,Male,4.17,4.82,"Lower middle (15,000-30,000)",Village,3,0-1 Hour,More than 3 Hours,40%-59%,No,4,No,2nd,2.44,2.44
+res_64,Computer Science and Engineering,Male,4.0,5.0,"Lower middle (15,000-30,000)",City,3,0-1 Hour,More than 3 Hours,40%-59%,No,3,No,2nd,2.44,2.44
+res_65,Computer Science and Engineering,Male,4.86,5.0,"Lower middle (15,000-30,000)",City,4,0-1 Hour,More than 3 Hours,80%-100%,Yes,3,No,11th,2.35,2.45
+res_66,Computer Science and Engineering,Male,4.5,4.75,"Lower middle (15,000-30,000)",Village,1,2-3 Hours,More than 3 Hours,60%-79%,No,3,No,3rd,2.25,2.45
+res_67,Computer Science and Engineering,Male,3.63,4.91,"Lower middle (15,000-30,000)",City,5,2-3 Hours,More than 3 Hours,60%-79%,No,4,No,3rd,2.58,2.47
+res_68,Computer Science and Engineering,Male,2.25,4.28,"Low (Below 15,000)",City,5,2-3 Hours,0-1 Hour,80%-100%,Yes,5,Yes,11th,3.0,2.5
+res_69,Computer Science and Engineering,Male,2.92,4.75,"Lower middle (15,000-30,000)",City,5,0-1 Hour,More than 3 Hours,60%-79%,Yes,4,No,8th,2.73,2.5
+res_70,Computer Science and Engineering,Male,4.33,5.0,"High (Above 50,000) ",Village,3,0-1 Hour,More than 3 Hours,40%-59%,No,4,No,2nd,2.5,2.5
+res_71,Computer Science and Engineering,Male,4.5,4.75,"Lower middle (15,000-30,000)",Village,1,2-3 Hours,More than 3 Hours,60%-79%,No,3,Yes,10th,2.83,2.53
+res_72,Computer Science and Engineering,Male,5.0,4.78,"High (Above 50,000)",City,3,0-1 Hour,2-3 Hours,80%-100%,No,3,Yes,4th,2.24,2.55
+res_73,Computer Science and Engineering,Female,3.16,4.19,"Upper middle (30,000-50,000)",Village,1,2-3 Hours,More than 3 Hours,60%-79%,Yes,4,No,5th,2.75,2.55
+res_74,Computer Science and Engineering,Male,4.67,5.0,"High (Above 50,000)",City,3,0-1 Hour,More than 3 Hours,40%-59%,No,4,No,2nd,2.56,2.56
+res_75,Computer Science and Engineering,Male,3.67,4.82,"Lower middle (15,000-30,000)",Village,1,0-1 Hour,More than 3 Hours,40%-59%,No,4,No,2nd,2.56,2.56
+res_76,Computer Science and Engineering,Male,3.75,4.11,"Lower middle (15,000-30,000)",Village,4,0-1 Hour,More than 3 Hours,40%-59%,No,4,No,2nd,2.56,2.56
+res_77,Computer Science and Engineering,Male,4.5,3.61,"Low (Below 15,000)",Village,4,More than 3 Hours,More than 3 Hours,80%-100%,No,4,Yes,2nd,3.0,2.58
+res_78,Computer Science and Engineering,Male,2.94,4.39,"High (Above 50,000) ",Village,4,0-1 Hour,More than 3 Hours,40%-59%,No,4,No,2nd,2.64,2.64
+res_79,Computer Science and Engineering,Male,3.59,5.0,"Low (Below 15,000)",Village,2,0-1 Hour,More than 3 Hours,40%-59%,No,4,No,2nd,2.69,2.69
+res_80,Computer Science and Engineering,Male,3.0,4.33,"High (Above 50,000)",Village,1,0-1 Hour,More than 3 Hours,40%-59%,No,4,No,2nd,2.69,2.69
+res_81,Computer Science and Engineering,Male,3.67,5.0,"Lower middle (15,000-30,000) ",City,3,0-1 Hour,More than 3 Hours,40%-59%,No,4,No,2nd,2.69,2.69
+res_82,Computer Science and Engineering,Male,4.08,5.0,"High (Above 50,000) ",City,3,0-1 Hour,More than 3 Hours,40%-59%,No,4,No,2nd,2.69,2.69
+res_83,Computer Science and Engineering,Male,4.33,5.0,"Low (Below 15,000)",Village,4,0-1 Hour,More than 3 Hours,60%-79%,No,4,No,10th,2.88,2.7
+res_84,Computer Science and Engineering,Male,5.0,5.0,"Lower middle (15,000-30,000)",City,4,0-1 Hour,More than 3 Hours,60%-79%,Yes,4,No,9th,2.83,2.7
+res_85,Computer Science and Engineering,Male,3.92,5.0,"Upper middle (30,000-50,000)",City,3,0-1 Hour,More than 3 Hours,60%-79%,No,4,No,3rd,2.83,2.7
+res_86,Computer Science and Engineering,Female,5.0,5.0,"Lower middle (15,000-30,000)",Village,3,More than 3 Hours,More than 3 Hours,80%-100%,Yes,3,Yes,4th,2.41,2.75
+res_87,Computer Science and Engineering,Male,5.0,5.0,"Lower middle (15,000-30,000)",City,3,2-3 Hours,2-3 Hours,80%-100%,Yes,3,Yes,4th,2.35,2.75
+res_88,Computer Science and Engineering,Male,3.92,5.0,"Lower middle (15,000-30,000)",Village,1,0-1 Hour,More than 3 Hours,80%-100%,No,3,Yes,10th,2.89,2.75
+res_89,Computer Science and Engineering,Male,4.3,4.75,"Lower middle (15,000-30,000)",Village,4,0-1 Hour,More than 3 Hours,60%-79%,No,4,No,10th,2.88,2.75
+res_90,Computer Science and Engineering,Female,4.0,5.0,"High (Above 50,000) ",City,4,0-1 Hour,More than 3 Hours,60%-79%,No,4,No,10th,2.75,2.75
+res_91,Computer Science and Engineering,Male,4.0,4.13,"Lower middle (15,000-30,000)",Village,4,0-1 Hour,More than 3 Hours,60%-79%,No,4,No,10th,2.82,2.75
+res_92,Computer Science and Engineering,Male,4.95,5.0,"Lower middle (15,000-30,000)",City,4,0-1 Hour,More than 3 Hours,60%-79%,No,4,No,10th,2.88,2.75
+res_93,Computer Science and Engineering,Male,4.44,4.38,"Upper middle (30,000-50,000)",City,3,0-1 Hour,More than 3 Hours,60%-79%,No,4,No,9th,2.81,2.75
+res_94,Computer Science and Engineering,Male,3.75,5.0,"Upper middle (30,000-50,000)",City,5,0-1 Hour,More than 3 Hours,60%-79%,No,4,No,8th,2.84,2.75
+res_95,Computer Science and Engineering,Male,3.58,4.61,"Low (Below 15,000)",City,5,0-1 Hour,More than 3 Hours,60%-79%,No,4,No,8th,2.81,2.75
+res_96,Computer Science and Engineering,Female,4.0,4.89,"High (Above 50,000)",City,3,0-1 Hour,More than 3 Hours,60%-79%,No,4,No,8th,2.79,2.75
+res_97,Computer Science and Engineering,Female,4.67,5.0,"High (Above 50,000)",City,3,0-1 Hour,More than 3 Hours,60%-79%,No,4,No,8th,2.83,2.75
+res_98,Computer Science and Engineering,Female,4.5,4.5,"Upper middle (30,000-50,000)",City,1,0-1 Hour,More than 3 Hours,60%-79%,Yes,4,No,8th,2.76,2.75
+res_99,Computer Science and Engineering,Male,4.25,4.94,"Low (Below 15,000) ",Village,5,0-1 Hour,More than 3 Hours,60%-79%,No,4,Yes,8th,2.84,2.75
+res_100,Computer Science and Engineering,Male,4.0,4.5,"Lower middle (15,000-30,000)",Village,3,0-1 Hour,More than 3 Hours,60%-79%,No,4,No,7th,2.75,2.75
+res_101,Computer Science and Engineering,Female,3.25,4.17,"Lower middle (15,000-30,000)",City,5,0-1 Hour,More than 3 Hours,60%-79%,No,4,No,6th,2.88,2.75
+res_102,Computer Science and Engineering,Male,2.67,4.11,"Upper middle (30,000-50,000)",Village,5,0-1 Hour,More than 3 Hours,60%-79%,Yes,4,No,6th,2.75,2.75
+res_103,Computer Science and Engineering,Male,4.42,4.44,"Lower middle (15,000-30,000)  ",Village,3,0-1 Hour,More than 3 Hours,60%-79%,No,4,No,6th,2.8,2.75
+res_104,Computer Science and Engineering,Male,4.75,5.0,"Low (Below 15,000) ",Village,5,0-1 Hour,More than 3 Hours,60%-79%,No,4,Yes,5th,2.88,2.75
+res_105,Computer Science and Engineering,Male,3.75,4.78,"Upper middle (30,000-50,000)",City,5,0-1 Hour,More than 3 Hours,60%-79%,No,4,Yes,5th,2.75,2.75
+res_106,Computer Science and Engineering,Male,3.5,5.0,"High (Above 50,000)",Village,1,0-1 Hour,More than 3 Hours,60%-79%,No,4,No,5th,2.77,2.75
+res_107,Computer Science and Engineering,Female,3.33,4.59,"High (Above 50,000)",City,5,0-1 Hour,More than 3 Hours,60%-79%,No,4,No,3rd,2.75,2.75
+res_108,Computer Science and Engineering,Male,4.0,4.89,"High (Above 50,000)",City,3,0-1 Hour,More than 3 Hours,60%-79%,No,4,No,3rd,2.75,2.75
+res_109,Computer Science and Engineering,Male,3.67,4.77,"High (Above 50,000)",City,3,0-1 Hour,More than 3 Hours,60%-79%,No,4,No,3rd,2.83,2.75
+res_110,Computer Science and Engineering,Male,4.25,5.0,"Upper middle (30,000-50,000)",Village,1,0-1 Hour,More than 3 Hours,60%-79%,No,4,No,2nd,2.75,2.75
+res_111,Computer Science and Engineering,Female,4.17,5.0,"Lower middle (15,000-30,000)",Village,3,0-1 Hour,More than 3 Hours,60%-79%,No,4,No,2nd,2.75,2.75
+res_112,Computer Science and Engineering,Female,3.67,4.73,"Lower middle (15,000-30,000)",City,2,0-1 Hour,More than 3 Hours,60%-79%,No,4,No,2nd,2.75,2.75
+res_113,Computer Science and Engineering,Female,4.08,5.0,"High (Above 50,000) ",Village,3,0-1 Hour,More than 3 Hours,60%-79%,No,4,No,2nd,2.75,2.75
+res_114,Computer Science and Engineering,Male,4.5,5.0,"Upper middle (30,000-50,000)",City,1,0-1 Hour,0-1 Hour,60%-79%,No,1,No,11th,2.27,2.79
+res_115,Computer Science and Engineering,Male,3.5,4.83,"Lower middle (15,000-30,000)",Village,5,0-1 Hour,More than 3 Hours,60%-79%,No,4,Yes,2nd,2.81,2.81
+res_116,Computer Science and Engineering,Male,3.25,4.36,"Low (Below 15,000)",Village,5,0-1 Hour,More than 3 Hours,60%-79%,No,4,Yes,2nd,2.81,2.81
+res_117,Computer Science and Engineering,Female,3.34,4.69,"Lower middle (15,000-30,000) ",Village,5,0-1 Hour,More than 3 Hours,60%-79%,No,4,Yes,10th,2.96,2.84
+res_118,Computer Science and Engineering,Female,4.08,5.0,"Upper middle (30,000-50,000)",Village,4,0-1 Hour,More than 3 Hours,60%-79%,No,4,No,9th,2.99,2.84
+res_119,Computer Science and Engineering,Male,4.08,5.0,"High (Above 50,000)",Village,4,0-1 Hour,More than 3 Hours,60%-79%,No,4,No,6th,2.94,2.84
+res_120,Computer Science and Engineering,Male,3.42,4.33,"Upper middle (30,000-50,000)",City,5,0-1 Hour,More than 3 Hours,60%-79%,No,4,No,6th,2.94,2.84
+res_121,Computer Science and Engineering,Female,4.5,4.75,"Lower middle (15,000-30,000)",Village,3,More than 3 Hours,More than 3 Hours,60%-79%,No,2,No,8th,1.52,2.846
+res_122,Computer Science and Engineering,Female,4.42,4.23,"Lower middle (15,000-30,000)",Village,3,0-1 Hour,More than 3 Hours,60%-79%,No,4,No,2nd,2.86,2.86
+res_123,Computer Science and Engineering,Female,3.5,4.73,"Lower middle (15,000-30,000)",City,2,0-1 Hour,More than 3 Hours,60%-79%,No,4,No,2nd,2.88,2.88
+res_124,Computer Science and Engineering,Male,3.58,4.68,"Lower middle (15,000-30,000)",City,1,0-1 Hour,More than 3 Hours,60%-79%,No,4,No,2nd,2.88,2.88
+res_125,Computer Science and Engineering,Male,4.67,5.0,"Lower middle (15,000-30,000)",City,3,0-1 Hour,More than 3 Hours,60%-79%,No,3,No,2nd,2.88,2.88
+res_126,Computer Science and Engineering,Male,4.57,4.95,"Lower middle (15,000-30,000)",City,3,0-1 Hour,More than 3 Hours,60%-79%,No,3,No,2nd,2.88,2.88
+res_127,Computer Science and Engineering,Female,4.17,5.0,"Lower middle (15,000-30,000)",City,5,0-1 Hour,More than 3 Hours,60%-79%,No,4,No,2nd,2.88,2.88
+res_128,Computer Science and Engineering,Female,3.75,4.69,"Lower middle (15,000-30,000)",City,4,0-1 Hour,More than 3 Hours,60%-79%,No,4,No,10th,2.89,2.89
+res_129,Computer Science and Engineering,Male,4.25,5.0,"Upper middle (30,000-50,000)",Village,4,0-1 Hour,More than 3 Hours,60%-79%,No,4,No,9th,2.91,2.89
+res_130,Computer Science and Engineering,Female,4.17,4.61,"Lower middle (15,000-30,000)",City,3,0-1 Hour,More than 3 Hours,60%-79%,No,3,No,8th,2.89,2.89
+res_131,Computer Science and Engineering,Female,4.67,5.0,"Lower middle (15,000-30,000)",Village,2,0-1 Hour,More than 3 Hours,60%-79%,No,4,No,8th,2.93,2.89
+res_132,Computer Science and Engineering,Female,3.83,5.0,"Lower middle (15,000-30,000)",City,3,0-1 Hour,More than 3 Hours,60%-79%,No,3,No,8th,2.89,2.89
+res_133,Computer Science and Engineering,Male,4.08,4.78,"High (Above 50,000)",Village,3,0-1 Hour,More than 3 Hours,60%-79%,No,4,No,7th,2.92,2.89
+res_134,Computer Science and Engineering,Male,3.58,4.88,"High (Above 50,000)",Village,2,0-1 Hour,More than 3 Hours,60%-79%,No,4,No,7th,2.92,2.89
+res_135,Computer Science and Engineering,Male,4.0,4.7,"Low (Below 15,000)",Village,1,0-1 Hour,2-3 Hours,60%-79%,No,3,Yes,11th,2.46,2.9
+res_136,Computer Science and Engineering,Male,4.58,4.0,"High (Above 50,000)",Village,3,0-1 Hour,More than 3 Hours,40%-59%,No,4,No,10th,2.66,2.9
+res_137,Computer Science and Engineering,Male,4.1,3.75,"Lower middle (15,000-30,000)",City,4,0-1 Hour,More than 3 Hours,40%-59%,No,4,No,9th,2.57,2.9
+res_138,Computer Science and Engineering,Male,3.33,4.61,"High (Above 50,000) ",Village,3,0-1 Hour,More than 3 Hours,40%-59%,No,4,No,9th,2.44,2.9
+res_139,Computer Science and Engineering,Male,3.67,3.06,"High (Above 50,000)",Village,5,0-1 Hour,More than 3 Hours,40%-59%,No,4,Yes,8th,2.55,2.9
+res_140,Computer Science and Engineering,Male,4.17,4.61,"Upper middle (30,000-50,000)",City,5,0-1 Hour,More than 3 Hours,40%-59%,No,4,No,8th,2.64,2.9
+res_141,Computer Science and Engineering,Female,3.83,5.0,"Lower middle (15,000-30,000)",Village,4,0-1 Hour,More than 3 Hours,40%-59%,No,4,No,8th,2.6,2.9
+res_142,Computer Science and Engineering,Male,4.67,4.75,"High (Above 50,000) ",Village,3,0-1 Hour,More than 3 Hours,40%-59%,No,4,No,7th,2.6,2.9
+res_143,Computer Science and Engineering,Male,4.5,4.28,"Lower middle (15,000-30,000)",Village,3,0-1 Hour,More than 3 Hours,40%-59%,No,4,No,7th,2.6,2.9
+res_144,Computer Science and Engineering,Male,4.33,5.0,"High (Above 50,000)",City,5,0-1 Hour,More than 3 Hours,40%-59%,No,4,No,6th,2.5,2.9
+res_145,Computer Science and Engineering,Male,3.17,4.67,"High (Above 50,000)  ",Village,4,0-1 Hour,More than 3 Hours,40%-59%,No,4,No,6th,2.41,2.9
+res_146,Computer Science and Engineering,Female,4.5,4.56,"Upper middle (30,000-50,000)",City,3,0-1 Hour,More than 3 Hours,40%-59%,No,4,No,6th,2.5,2.9
+res_147,Computer Science and Engineering,Female,3.76,4.0,"High (Above 50,000)",Village,4,0-1 Hour,More than 3 Hours,40%-59%,No,4,No,6th,2.56,2.9
+res_148,Computer Science and Engineering,Male,2.59,4.88,"High (Above 50,000) ",City,5,0-1 Hour,More than 3 Hours,40%-59%,No,4,No,6th,2.55,2.9
+res_149,Computer Science and Engineering,Male,3.33,3.78,"Lower middle (15,000-30,000)",Village,4,0-1 Hour,More than 3 Hours,40%-59%,No,4,No,6th,2.69,2.9
+res_150,Computer Science and Engineering,Female,4.5,5.0,"Lower middle (15,000-30,000)",Village,5,0-1 Hour,More than 3 Hours,40%-59%,No,4,Yes,5th,2.67,2.9
+res_151,Computer Science and Engineering,Male,4.17,4.61,"Lower middle (15,000-30,000)",Village,3,0-1 Hour,More than 3 Hours,40%-59%,No,4,No,5th,2.5,2.9
+res_152,Computer Science and Engineering,Female,4.42,5.0,"Lower middle (15,000-30,000)",City,3,0-1 Hour,More than 3 Hours,40%-59%,No,3,No,3rd,2.67,2.9
+res_153,Computer Science and Engineering,Male,3.85,5.0,"Lower middle (15,000-30,000)",City,4,0-1 Hour,More than 3 Hours,40%-59%,No,4,No,3rd,2.42,2.9
+res_154,Computer Science and Engineering,Male,3.92,5.0,"High (Above 50,000)",Village,2,0-1 Hour,More than 3 Hours,60%-79%,No,4,No,2nd,2.92,2.92
+res_155,Computer Science and Engineering,Female,4.0,5.0,"High (Above 50,000) ",Village,4,0-1 Hour,More than 3 Hours,40%-59%,No,4,No,10th,2.42,2.94
+res_156,Computer Science and Engineering,Male,3.33,4.89,"Low (Below 15,000)",Village,2,0-1 Hour,More than 3 Hours,60%-79%,No,4,No,2nd,2.94,2.94
+res_157,Computer Science and Engineering,Male,3.92,4.73,"Lower middle (15,000-30,000)",Village,3,0-1 Hour,More than 3 Hours,60%-79%,No,4,No,2nd,2.94,2.94
+res_158,Computer Science and Engineering,Female,3.42,4.68,"High (Above 50,000)  ",Village,2,0-1 Hour,More than 3 Hours,60%-79%,No,4,No,2nd,2.94,2.94
+res_159,Computer Science and Engineering,Male,4.5,4.75,"Lower middle (15,000-30,000)",Village,1,2-3 Hours,More than 3 Hours,60%-79%,No,4,Yes,8th,2.48,2.98
+res_160,Computer Science and Engineering,Female,4.5,5.0,"High (Above 50,000)",City,3,2-3 Hours,More than 3 Hours,80%-100%,No,3,Yes,11th,3.45,3.0
+res_161,Computer Science and Engineering,Male,5.0,5.0,"Lower middle (15,000-30,000)",Village,3,0-1 Hour,More than 3 Hours,80%-100%,No,4,No,2nd,3.0,3.0
+res_162,Computer Science and Engineering,Male,5.0,5.0,"Upper middle (30,000-50,000)",City,3,0-1 Hour,0-1 Hour,60%-79%,No,4,Yes,4th,2.45,3.0
+res_163,Computer Science and Engineering,Female,5.0,5.0,"Upper middle (30,000-50,000)",City,3,0-1 Hour,2-3 Hours,80%-100%,No,3,No,4th,3.22,3.0
+res_164,Computer Science and Engineering,Female,4.5,4.75,"Lower middle (15,000-30,000)",Village,1,More than 3 Hours,More than 3 Hours,80%-100%,No,4,No,10th,3.17,3.0
+res_165,Computer Science and Engineering,Male,3.08,4.68,"High (Above 50,000) ",Village,3,0-1 Hour,More than 3 Hours,60%-79%,No,4,No,2nd,3.0,3.0
+res_166,Computer Science and Engineering,Female,3.92,5.0,"High (Above 50,000) ",City,5,0-1 Hour,More than 3 Hours,60%-79%,No,4,No,2nd,3.0,3.0
+res_167,Computer Science and Engineering,Male,3.67,4.68,"High (Above 50,000) ",City,3,0-1 Hour,More than 3 Hours,60%-79%,No,4,No,2nd,3.0,3.0
+res_168,Computer Science and Engineering,Female,3.92,5.0,"Upper middle (30,000-50,000)",City,4,0-1 Hour,More than 3 Hours,60%-79%,No,4,No,2nd,3.0,3.0
+res_169,Computer Science and Engineering,Female,3.53,5.0,"Lower middle (15,000-30,000) ",City,2,0-1 Hour,More than 3 Hours,60%-79%,No,4,No,2nd,3.0,3.0
+res_170,Computer Science and Engineering,Male,3.83,4.73,"High (Above 50,000) ",Village,3,2-3 Hours,More than 3 Hours,40%-59%,No,5,Yes,2nd,3.06,3.06
+res_171,Computer Science and Engineering,Female,2.93,4.71,"Upper middle (30,000-50,000)",Village,4,2-3 Hours,More than 3 Hours,40%-59%,No,3,Yes,2nd,3.06,3.06
+res_172,Computer Science and Engineering,Male,3.5,5.0,"High (Above 50,000)",City,5,2-3 Hours,More than 3 Hours,40%-59%,No,3,Yes,2nd,3.06,3.06
+res_173,Computer Science and Engineering,Male,5.0,5.0,"Lower middle (15,000-30,000)",Village,4,2-3 Hours,More than 3 Hours,80%-100%,No,3,Yes,4th,2.94,3.07
+res_174,Computer Science and Engineering,Male,4.0,4.92,"Lower middle (15,000-30,000)",Village,3,2-3 Hours,2-3 Hours,80%-100%,No,3,Yes,11th,3.0,3.08
+res_175,Computer Science and Engineering,Male,3.92,5.0,"Lower middle (15,000-30,000)",Village,4,2-3 Hours,2-3 Hours,60%-79%,No,4,No,10th,3.29,3.08
+res_176,Computer Science and Engineering,Male,3.6,4.94,"Upper middle (30,000-50,000)",Village,4,2-3 Hours,2-3 Hours,60%-79%,No,4,No,10th,3.25,3.08
+res_177,Computer Science and Engineering,Male,3.83,4.75,"Upper middle (30,000-50,000)",Village,3,2-3 Hours,2-3 Hours,60%-79%,No,4,No,9th,3.25,3.08
+res_178,Computer Science and Engineering,Female,3.51,3.19,"Low (Below 15,000)",Village,3,2-3 Hours,2-3 Hours,60%-79%,No,3,No,9th,3.25,3.08
+res_179,Computer Science and Engineering,Male,4.44,5.0,"Upper middle (30,000-50,000)",City,5,2-3 Hours,2-3 Hours,60%-79%,Yes,2,No,8th,3.25,3.08
+res_180,Computer Science and Engineering,Female,3.92,5.0,"Upper middle (30,000-50,000)",Village,3,2-3 Hours,2-3 Hours,60%-79%,No,3,No,8th,3.28,3.08
+res_181,Computer Science and Engineering,Male,4.5,5.0,"Lower middle (15,000-30,000)",City,3,2-3 Hours,2-3 Hours,60%-79%,No,4,No,8th,3.3,3.08
+res_182,Computer Science and Engineering,Male,4.5,5.0,"High (Above 50,000)",City,1,2-3 Hours,2-3 Hours,60%-79%,Yes,2,No,8th,3.26,3.08
+res_183,Computer Science and Engineering,Male,3.42,4.0,"Low (Below 15,000) ",Village,4,2-3 Hours,2-3 Hours,60%-79%,Yes,2,No,6th,3.3,3.08
+res_184,Computer Science and Engineering,Female,3.86,5.0,"High (Above 50,000)",Village,5,2-3 Hours,2-3 Hours,60%-79%,No,3,No,6th,3.25,3.08
+res_185,Computer Science and Engineering,Male,5.0,5.0,"Low (Below 15,000)",Village,4,2-3 Hours,2-3 Hours,60%-79%,No,3,No,3rd,3.25,3.08
+res_186,Computer Science and Engineering,Male,4.08,5.0,"Low (Below 15,000)",Village,1,2-3 Hours,2-3 Hours,80%-100%,No,3,Yes,10th,2.73,3.09
+res_187,Computer Science and Engineering,Male,4.0,4.33,"Low (Below 15,000)",Village,3,0-1 Hour,2-3 Hours,80%-100%,No,1,No,7th,2.69,3.1
+res_188,Computer Science and Engineering,Male,4.83,5.0,"Lower middle (15,000-30,000)",Village,1,2-3 Hours,More than 3 Hours,60%-79%,No,3,No,7th,2.83,3.1
+res_189,Computer Science and Engineering,Male,5.0,5.0,"Low (Below 15,000)",Village,3,More than 3 Hours,0-1 Hour,80%-100%,No,3,Yes,4th,3.11,3.11
+res_190,Computer Science and Engineering,Male,3.42,4.63,"Low (Below 15,000)",Village,3,2-3 Hours,More than 3 Hours,80%-100%,No,5,Yes,2nd,3.13,3.13
+res_191,Computer Science and Engineering,Male,4.33,4.68,"High (Above 50,000)",City,5,2-3 Hours,More than 3 Hours,80%-100%,No,3,Yes,2nd,3.13,3.13
+res_192,Computer Science and Engineering,Female,4.0,5.0,"Lower middle (15,000-30,000)",City,3,2-3 Hours,More than 3 Hours,80%-100%,No,3,Yes,2nd,3.13,3.13
+res_193,Computer Science and Engineering,Male,3.08,4.06,"Upper middle (30,000-50,000)",Village,3,2-3 Hours,More than 3 Hours,80%-100%,No,4,No,2nd,3.13,3.13
+res_194,Computer Science and Engineering,Male,3.92,5.0,"Low (Below 15,000)",Village,4,2-3 Hours,2-3 Hours,60%-79%,No,3,No,9th,3.34,3.15
+res_195,Computer Science and Engineering,Male,4.44,5.0,"Low (Below 15,000)",City,5,2-3 Hours,2-3 Hours,60%-79%,No,4,No,9th,3.3,3.15
+res_196,Computer Science and Engineering,Female,3.92,5.0,"High (Above 50,000)",City,5,2-3 Hours,2-3 Hours,60%-79%,No,3,No,8th,3.34,3.15
+res_197,Computer Science and Engineering,Male,3.42,4.17,"High (Above 50,000) ",City,3,2-3 Hours,2-3 Hours,60%-79%,No,3,No,7th,3.33,3.15
+res_198,Computer Science and Engineering,Female,4.58,5.0,"High (Above 50,000) ",City,3,2-3 Hours,2-3 Hours,60%-79%,No,3,No,7th,3.33,3.15
+res_199,Computer Science and Engineering,Female,3.83,5.0,"High (Above 50,000) ",Village,3,2-3 Hours,2-3 Hours,60%-79%,No,3,No,7th,3.33,3.15
+res_200,Computer Science and Engineering,Female,4.5,5.0,"Upper middle (30,000-50,000)",City,3,2-3 Hours,2-3 Hours,60%-79%,No,4,No,5th,3.3,3.15
+res_201,Computer Science and Engineering,Male,4.75,5.0,"Upper middle (30,000-50,000)",Village,4,2-3 Hours,More than 3 Hours,80%-100%,No,3,Yes,2nd,3.16,3.16
+res_202,Computer Science and Engineering,Male,4.19,4.36,"Lower middle (15,000-30,000)",City,3,2-3 Hours,More than 3 Hours,60%-79%,No,3,Yes,2nd,3.19,3.19
+res_203,Computer Science and Engineering,Male,3.5,4.73,"Lower middle (15,000-30,000)",Village,3,2-3 Hours,More than 3 Hours,60%-79%,No,4,No,2nd,3.19,3.19
+res_204,Computer Science and Engineering,Male,3.38,5.0,"Lower middle (15,000-30,000)",City,5,2-3 Hours,More than 3 Hours,60%-79%,No,3,Yes,2nd,3.19,3.19
+res_205,Computer Science and Engineering,Male,4.0,5.0,"Upper middle (30,000-50,000)",Village,5,2-3 Hours,More than 3 Hours,60%-79%,Yes,4,No,2nd,3.19,3.19
+res_206,Computer Science and Engineering,Male,3.8,4.56,"Upper middle (30,000-50,000)",City,3,2-3 Hours,More than 3 Hours,60%-79%,No,3,Yes,2nd,3.21,3.21
+res_207,Computer Science and Engineering,Male,4.0,4.88,"Upper middle (30,000-50,000)",Village,3,More than 3 Hours,More than 3 Hours,80%-100%,No,3,No,8th,3.27,3.22
+res_208,Computer Science and Engineering,Male,4.2,5.0,"Lower middle (15,000-30,000)",City,5,2-3 Hours,More than 3 Hours,80%-100%,Yes,4,Yes,11th,3.02,3.25
+res_209,Computer Science and Engineering,Male,3.67,5.0,"Low (Below 15,000)",City,5,2-3 Hours,More than 3 Hours,80%-100%,No,3,Yes,10th,3.09,3.25
+res_210,Computer Science and Engineering,Male,3.5,4.88,"Low (Below 15,000)",Village,4,2-3 Hours,More than 3 Hours,80%-100%,No,4,No,10th,3.1,3.25
+res_211,Computer Science and Engineering,Male,3.5,4.56,"Low (Below 15,000)",Village,3,0-1 Hour,More than 3 Hours,60%-79%,No,5,Yes,10th,3.01,3.25
+res_212,Computer Science and Engineering,Male,4.0,4.88,"Upper middle (30,000-50,000)",City,5,2-3 Hours,More than 3 Hours,40%-59%,Yes,4,No,8th,3.08,3.25
+res_213,Computer Science and Engineering,Male,3.93,5.0,"Lower middle (15,000-30,000)",City,2,2-3 Hours,More than 3 Hours,40%-59%,No,5,Yes,8th,3.04,3.25
+res_214,Computer Science and Engineering,Male,4.08,5.0,"Lower middle (15,000-30,000)",City,4,2-3 Hours,More than 3 Hours,40%-59%,No,4,No,8th,3.04,3.25
+res_215,Computer Science and Engineering,Male,4.33,4.81,"Upper middle (30,000-50,000)",Village,3,2-3 Hours,2-3 Hours,60%-79%,No,3,No,8th,3.22,3.25
+res_216,Computer Science and Engineering,Male,4.25,5.0,"Lower middle (15,000-30,000)",Village,4,2-3 Hours,More than 3 Hours,80%-100%,No,4,No,8th,3.11,3.25
+res_217,Computer Science and Engineering,Male,4.1,5.0,"Lower middle (15,000-30,000)",Village,1,2-3 Hours,More than 3 Hours,80%-100%,No,5,Yes,8th,3.1,3.25
+res_218,Computer Science and Engineering,Female,3.87,4.94,"Upper middle (30,000-50,000)",City,3,2-3 Hours,More than 3 Hours,40%-59%,No,5,Yes,7th,3.08,3.25
+res_219,Computer Science and Engineering,Female,4.58,5.0,"Upper middle (30,000-50,000)",City,4,2-3 Hours,More than 3 Hours,40%-59%,No,4,No,6th,3.04,3.25
+res_220,Computer Science and Engineering,Male,3.83,5.0,"High (Above 50,000)",Village,4,0-1 Hour,More than 3 Hours,60%-79%,No,4,No,5th,3.0,3.25
+res_221,Computer Science and Engineering,Male,4.5,4.28,"High (Above 50,000)",City,5,2-3 Hours,More than 3 Hours,40%-59%,No,3,Yes,5th,3.05,3.25
+res_222,Computer Science and Engineering,Female,4.0,5.0,"Upper middle (30,000-50,000)",Village,5,2-3 Hours,More than 3 Hours,40%-59%,No,5,Yes,5th,3.08,3.25
+res_223,Computer Science and Engineering,Female,4.0,5.0,"Low (Below 15,000) ",Village,1,2-3 Hours,More than 3 Hours,40%-59%,No,5,Yes,5th,3.08,3.25
+res_224,Computer Science and Engineering,Female,3.83,5.0,"Upper middle (30,000-50,000)",Village,3,2-3 Hours,More than 3 Hours,40%-59%,No,4,No,3rd,3.06,3.25
+res_225,Computer Science and Engineering,Male,3.67,5.0,"High (Above 50,000)",City,3,0-1 Hour,More than 3 Hours,60%-79%,No,4,No,3rd,3.0,3.25
+res_226,Computer Science and Engineering,Female,3.92,4.18,"Upper middle (30,000-50,000)",City,5,2-3 Hours,More than 3 Hours,40%-59%,No,3,Yes,3rd,3.08,3.25
+res_227,Computer Science and Engineering,Male,3.5,4.81,"Low (Below 15,000)",Village,3,2-3 Hours,2-3 Hours,60%-79%,No,3,No,2nd,3.25,3.25
+res_228,Computer Science and Engineering,Male,3.07,4.85,"Low (Below 15,000)",Village,3,2-3 Hours,2-3 Hours,60%-79%,No,3,No,2nd,3.25,3.25
+res_229,Computer Science and Engineering,Male,3.92,5.0,"Lower middle (15,000-30,000)",City,3,2-3 Hours,2-3 Hours,60%-79%,No,3,No,2nd,3.25,3.25
+res_230,Computer Science and Engineering,Male,4.08,5.0,"Low (Below 15,000)",Village,2,2-3 Hours,2-3 Hours,60%-79%,No,4,No,2nd,3.25,3.25
+res_231,Computer Science and Engineering,Male,3.83,5.0,"Lower middle (15,000-30,000)",Village,1,2-3 Hours,2-3 Hours,60%-79%,No,3,No,2nd,3.25,3.25
+res_232,Computer Science and Engineering,Male,3.58,4.83,"High (Above 50,000)",Village,2,2-3 Hours,2-3 Hours,60%-79%,No,3,No,2nd,3.25,3.25
+res_233,Computer Science and Engineering,Male,3.92,5.0,"Lower middle (15,000-30,000)",Village,3,2-3 Hours,2-3 Hours,60%-79%,No,3,No,2nd,3.25,3.25
+res_234,Computer Science and Engineering,Male,4.25,5.0,"Low (Below 15,000) ",Village,5,2-3 Hours,2-3 Hours,60%-79%,No,2,Yes,2nd,3.25,3.25
+res_235,Computer Science and Engineering,Male,4.42,4.86,"Lower middle (15,000-30,000)",City,2,2-3 Hours,2-3 Hours,60%-79%,No,4,No,2nd,3.25,3.25
+res_236,Computer Science and Engineering,Male,4.5,4.86,"Upper middle (30,000-50,000)",Village,3,2-3 Hours,2-3 Hours,60%-79%,No,3,No,2nd,3.25,3.25
+res_237,Computer Science and Engineering,Female,3.75,4.59,"Upper middle (30,000-50,000)",Village,5,2-3 Hours,2-3 Hours,60%-79%,No,2,Yes,2nd,3.25,3.25
+res_238,Computer Science and Engineering,Female,4.5,4.75,"Upper middle (30,000-50,000)",Village,1,More than 3 Hours,More than 3 Hours,80%-100%,No,4,No,8th,3.11,3.26
+res_239,Computer Science and Engineering,Male,5.0,4.67,"Low (Below 15,000)",Village,3,More than 3 Hours,2-3 Hours,80%-100%,No,3,Yes,3rd,3.27,3.27
+res_240,Computer Science and Engineering,Male,4.0,5.0,"Upper middle (30,000-50,000)",City,5,2-3 Hours,2-3 Hours,60%-79%,No,3,No,10th,3.47,3.27
+res_241,Computer Science and Engineering,Male,4.3,5.0,"Upper middle (30,000-50,000)",City,4,2-3 Hours,2-3 Hours,60%-79%,No,3,No,10th,3.44,3.27
+res_242,Computer Science and Engineering,Male,4.25,5.0,"High (Above 50,000) ",City,3,2-3 Hours,2-3 Hours,60%-79%,Yes,2,No,9th,3.43,3.27
+res_243,Computer Science and Engineering,Male,4.25,4.61,"High (Above 50,000)",City,5,2-3 Hours,2-3 Hours,60%-79%,No,3,No,8th,3.48,3.27
+res_244,Computer Science and Engineering,Female,4.25,5.0,"Lower middle (15,000-30,000)",Village,3,2-3 Hours,2-3 Hours,60%-79%,No,4,No,8th,3.43,3.27
+res_245,Computer Science and Engineering,Female,3.14,4.63,"High (Above 50,000) ",Village,2,2-3 Hours,2-3 Hours,60%-79%,No,4,No,7th,3.47,3.27
+res_246,Computer Science and Engineering,Female,4.5,4.75,"Lower middle (15,000-30,000)",Village,1,More than 3 Hours,More than 3 Hours,80%-100%,No,3,No,10th,3.33,3.28
+res_247,Computer Science and Engineering,Male,3.67,4.78,"Upper middle (30,000-50,000)",Village,3,2-3 Hours,2-3 Hours,60%-79%,No,3,No,2nd,3.3,3.3
+res_248,Computer Science and Engineering,Male,3.83,5.0,"Upper middle (30,000-50,000)",Village,5,2-3 Hours,2-3 Hours,60%-79%,No,2,Yes,2nd,3.3,3.3
+res_249,Computer Science and Engineering,Male,4.58,5.0,"High (Above 50,000)",City,5,2-3 Hours,2-3 Hours,60%-79%,No,3,No,2nd,3.31,3.31
+res_250,Computer Science and Engineering,Female,4.75,5.0,"High (Above 50,000)",City,3,2-3 Hours,2-3 Hours,60%-79%,No,3,No,2nd,3.31,3.31
+res_251,Computer Science and Engineering,Female,4.17,5.0,"Lower middle (15,000-30,000)",City,5,2-3 Hours,2-3 Hours,60%-79%,No,3,No,2nd,3.31,3.31
+res_252,Computer Science and Engineering,Female,3.67,4.56,"High (Above 50,000)",City,5,2-3 Hours,2-3 Hours,60%-79%,No,3,No,2nd,3.31,3.31
+res_253,Computer Science and Engineering,Male,4.5,4.75,"Lower middle (15,000-30,000)",Village,1,More than 3 Hours,More than 3 Hours,80%-100%,No,3,Yes,8th,3.32,3.32
+res_254,Computer Science and Engineering,Male,4.08,4.17,"High (Above 50,000) ",Village,5,2-3 Hours,2-3 Hours,60%-79%,No,3,No,2nd,3.32,3.32
+res_255,Computer Science and Engineering,Male,4.01,4.33,"Lower middle (15,000-30,000)",Village,3,2-3 Hours,2-3 Hours,80%-100%,Yes,2,Yes,4th,2.71,3.33
+res_256,Computer Science and Engineering,Female,4.0,4.38,"Lower middle (15,000-30,000)",City,3,2-3 Hours,2-3 Hours,60%-79%,No,3,No,9th,3.41,3.33
+res_257,Computer Science and Engineering,Female,3.58,4.44,"Upper middle (30,000-50,000)",Village,5,2-3 Hours,2-3 Hours,60%-79%,No,2,Yes,8th,3.35,3.33
+res_258,Computer Science and Engineering,Female,4.5,4.75,"Lower middle (15,000-30,000)",Village,1,More than 3 Hours,More than 3 Hours,80%-100%,No,4,No,8th,3.55,3.33
+res_259,Computer Science and Engineering,Male,4.5,4.75,"Lower middle (15,000-30,000)",Village,1,2-3 Hours,More than 3 Hours,60%-79%,No,3,No,8th,2.86,3.33
+res_260,Computer Science and Engineering,Male,4.33,5.0,"Upper middle (30,000-50,000)",City,3,2-3 Hours,2-3 Hours,60%-79%,No,4,No,8th,3.4,3.33
+res_261,Computer Science and Engineering,Female,3.83,4.89,"High (Above 50,000) ",City,3,2-3 Hours,2-3 Hours,60%-79%,No,3,No,7th,3.42,3.33
+res_262,Computer Science and Engineering,Male,3.5,4.61,"Lower middle (15,000-30,000)",City,5,2-3 Hours,2-3 Hours,60%-79%,No,3,No,6th,3.38,3.33
+res_263,Computer Science and Engineering,Male,4.0,4.89,"High (Above 50,000)",Village,3,2-3 Hours,2-3 Hours,60%-79%,No,3,No,5th,3.4,3.33
+res_264,Computer Science and Engineering,Male,4.25,4.94,"Lower middle (15,000-30,000)",City,4,2-3 Hours,2-3 Hours,60%-79%,No,3,No,5th,3.42,3.33
+res_265,Computer Science and Engineering,Female,5.0,5.0,"Low (Below 15,000) ",Village,3,2-3 Hours,2-3 Hours,60%-79%,No,3,No,5th,3.42,3.33
+res_266,Computer Science and Engineering,Male,4.17,4.89,"Upper middle (30,000-50,000)",City,3,2-3 Hours,2-3 Hours,60%-79%,No,4,No,3rd,3.42,3.33
+res_267,Computer Science and Engineering,Male,4.17,4.95,"High (Above 50,000)",Village,2,2-3 Hours,2-3 Hours,60%-79%,No,4,No,2nd,3.35,3.35
+res_268,Computer Science and Engineering,Male,4.5,4.75,"Upper middle (30,000-50,000)",Village,3,More than 3 Hours,More than 3 Hours,80%-100%,No,3,No,8th,3.14,3.37
+res_269,Computer Science and Engineering,Female,4.08,5.0,"Lower middle (15,000-30,000)",City,3,2-3 Hours,2-3 Hours,60%-79%,No,4,No,2nd,3.38,3.38
+res_270,Computer Science and Engineering,Male,3.75,4.95,"Upper middle (30,000-50,000)",Village,3,2-3 Hours,2-3 Hours,60%-79%,No,3,No,2nd,3.38,3.38
+res_271,Computer Science and Engineering,Male,4.42,4.89,"High (Above 50,000) ",Village,3,2-3 Hours,2-3 Hours,60%-79%,No,3,No,2nd,3.38,3.38
+res_272,Computer Science and Engineering,Male,4.75,4.09,"Lower middle (15,000-30,000)",City,5,2-3 Hours,2-3 Hours,60%-79%,No,4,No,2nd,3.38,3.38
+res_273,Computer Science and Engineering,Male,4.25,5.0,"Lower middle (15,000-30,000)",City,3,2-3 Hours,2-3 Hours,60%-79%,No,4,No,2nd,3.38,3.38
+res_274,Computer Science and Engineering,Female,3.58,5.0,"Upper middle (30,000-50,000)",Village,5,2-3 Hours,2-3 Hours,60%-79%,No,2,Yes,2nd,3.38,3.38
+res_275,Computer Science and Engineering,Female,4.17,4.83,"Lower middle (15,000-30,000)",Village,3,2-3 Hours,2-3 Hours,60%-79%,No,3,No,2nd,3.38,3.38
+res_276,Computer Science and Engineering,Male,3.42,4.68,"Lower middle (15,000-30,000)",Village,5,2-3 Hours,2-3 Hours,60%-79%,No,2,Yes,2nd,3.38,3.38
+res_277,Computer Science and Engineering,Male,3.67,4.89,"Low (Below 15,000)",Village,3,0-1 Hour,0-1 Hour,80%-100%,Yes,4,Yes,10th,3.3,3.39
+res_278,Computer Science and Engineering,Male,4.5,4.75,"Lower middle (15,000-30,000)",Village,1,2-3 Hours,More than 3 Hours,80%-100%,No,4,Yes,7th,3.83,3.39
+res_279,Computer Science and Engineering,Female,4.5,4.75,"Upper middle (30,000-50,000)",Village,3,More than 3 Hours,More than 3 Hours,80%-100%,No,4,No,8th,3.27,3.43
+res_280,Computer Science and Engineering,Female,4.83,5.0,"High (Above 50,000)",City,2,2-3 Hours,2-3 Hours,80%-100%,No,4,No,11th,3.56,3.44
+res_281,Computer Science and Engineering,Male,4.33,5.0,"Low (Below 15,000)",Village,3,2-3 Hours,More than 3 Hours,60%-79%,No,5,Yes,10th,3.6,3.44
+res_282,Computer Science and Engineering,Male,4.33,5.0,"High (Above 50,000)",Village,3,2-3 Hours,More than 3 Hours,60%-79%,No,5,Yes,8th,3.59,3.44
+res_283,Computer Science and Engineering,Female,4.55,5.0,"High (Above 50,000)",City,5,2-3 Hours,2-3 Hours,60%-79%,No,3,No,2nd,3.44,3.44
+res_284,Computer Science and Engineering,Male,4.25,4.89,"Low (Below 15,000)",City,5,2-3 Hours,2-3 Hours,60%-79%,No,4,No,2nd,3.44,3.44
+res_285,Computer Science and Engineering,Male,3.92,5.0,"Lower middle (15,000-30,000)",City,3,2-3 Hours,2-3 Hours,60%-79%,No,3,No,2nd,3.44,3.44
+res_286,Computer Science and Engineering,Female,4.75,5.0,"Upper middle (30,000-50,000)",Village,1,0-1 Hour,More than 3 Hours,60%-79%,No,1,No,11th,3.52,3.45
+res_287,Computer Science and Engineering,Male,4.5,4.75,"Upper middle (30,000-50,000)",Village,1,More than 3 Hours,More than 3 Hours,60%-79%,No,4,No,3rd,2.92,3.46
+res_288,Computer Science and Engineering,Male,5.0,5.0,"Lower middle (15,000-30,000)",City,5,0-1 Hour,More than 3 Hours,80%-100%,No,4,Yes,2nd,3.48,3.48
+res_289,Computer Science and Engineering,Male,3.5,4.8,"High (Above 50,000)",City,5,0-1 Hour,More than 3 Hours,40%-59%,No,5,Yes,11th,3.02,3.5
+res_290,Computer Science and Engineering,Female,5.0,5.0,"Lower middle (15,000-30,000)",City,4,2-3 Hours,More than 3 Hours,80%-100%,Yes,5,Yes,4th,2.07,3.5
+res_291,Computer Science and Engineering,Male,4.53,4.75,"Lower middle (15,000-30,000)",Village,1,0-1 Hour,More than 3 Hours,80%-100%,No,4,Yes,10th,3.0,3.5
+res_292,Computer Science and Engineering,Male,4.42,4.88,"Low (Below 15,000)",Village,4,0-1 Hour,2-3 Hours,80%-100%,No,3,No,10th,3.76,3.5
+res_293,Computer Science and Engineering,Male,4.58,5.0,"High (Above 50,000)",Village,4,0-1 Hour,2-3 Hours,80%-100%,No,4,No,9th,3.7,3.5
+res_294,Computer Science and Engineering,Female,3.5,4.81,"Lower middle (15,000-30,000)",Village,4,More than 3 Hours,More than 3 Hours,80%-100%,No,5,Yes,9th,3.8,3.5
+res_295,Computer Science and Engineering,Male,5.0,5.0,"Upper middle (30,000-50,000)",City,5,0-1 Hour,More than 3 Hours,80%-100%,No,5,Yes,8th,4.0,3.5
+res_296,Computer Science and Engineering,Male,4.58,5.0,"Lower middle (15,000-30,000)",City,1,0-1 Hour,2-3 Hours,80%-100%,No,5,Yes,8th,3.78,3.5
+res_297,Computer Science and Engineering,Female,4.83,5.0,"High (Above 50,000)",City,3,0-1 Hour,0-1 Hour,80%-100%,No,3,Yes,7th,3.83,3.5
+res_298,Computer Science and Engineering,Female,4.33,5.0,"High (Above 50,000) ",City,3,More than 3 Hours,More than 3 Hours,80%-100%,No,5,Yes,7th,3.81,3.5
+res_299,Computer Science and Engineering,Female,4.25,5.0,"Upper middle (30,000-50,000)",Village,5,More than 3 Hours,More than 3 Hours,80%-100%,No,5,Yes,6th,3.81,3.5
+res_300,Computer Science and Engineering,Male,4.33,5.0,"Low (Below 15,000) ",Village,4,0-1 Hour,2-3 Hours,80%-100%,No,4,No,6th,3.75,3.5
+res_301,Computer Science and Engineering,Male,3.75,4.67,"Upper middle (30,000-50,000)",Village,3,0-1 Hour,0-1 Hour,80%-100%,No,3,Yes,5th,3.83,3.5
+res_302,Computer Science and Engineering,Male,4.58,5.0,"High (Above 50,000)",Village,3,0-1 Hour,2-3 Hours,80%-100%,No,3,No,5th,3.75,3.5
+res_303,Computer Science and Engineering,Female,3.67,4.61,"High (Above 50,000)",City,3,2-3 Hours,2-3 Hours,60%-79%,No,3,No,2nd,3.5,3.5
+res_304,Computer Science and Engineering,Female,3.75,4.78,"Upper middle (30,000-50,000)",Village,3,2-3 Hours,2-3 Hours,60%-79%,No,3,No,2nd,3.5,3.5
+res_305,Computer Science and Engineering,Male,4.17,4.94,"Low (Below 15,000)",Village,3,2-3 Hours,2-3 Hours,60%-79%,No,3,No,2nd,3.5,3.5
+res_306,Computer Science and Engineering,Male,4.0,5.0,"Lower middle (15,000-30,000)",Village,3,2-3 Hours,2-3 Hours,60%-79%,No,4,No,2nd,3.5,3.5
+res_307,Computer Science and Engineering,Male,3.75,4.61,"Low (Below 15,000) ",Village,3,2-3 Hours,2-3 Hours,60%-79%,No,3,No,2nd,3.5,3.5
+res_308,Computer Science and Engineering,Male,4.08,5.0,"High (Above 50,000)",City,5,2-3 Hours,2-3 Hours,60%-79%,No,3,No,2nd,3.5,3.5
+res_309,Computer Science and Engineering,Female,4.33,4.94,"Lower middle (15,000-30,000)",City,5,2-3 Hours,2-3 Hours,60%-79%,No,3,No,2nd,3.5,3.5
+res_310,Computer Science and Engineering,Male,4.57,5.0,"Lower middle (15,000-30,000)",Village,5,0-1 Hour,0-1 Hour,80%-100%,No,5,No,11th,3.92,3.54
+res_311,Computer Science and Engineering,Female,4.5,4.75,"Lower middle (15,000-30,000)",Village,1,More than 3 Hours,More than 3 Hours,80%-100%,No,5,No,10th,3.42,3.55
+res_312,Computer Science and Engineering,Male,4.52,4.75,"Lower middle (15,000-30,000)",Village,1,More than 3 Hours,More than 3 Hours,80%-100%,No,3,No,10th,3.42,3.55
+res_313,Computer Science and Engineering,Male,3.58,5.0,"Low (Below 15,000)",Village,3,2-3 Hours,More than 3 Hours,60%-79%,No,5,Yes,9th,3.57,3.56
+res_314,Computer Science and Engineering,Female,4.17,5.0,"Upper middle (30,000-50,000) ",Village,4,2-3 Hours,More than 3 Hours,60%-79%,No,3,Yes,2nd,3.56,3.56
+res_315,Computer Science and Engineering,Female,4.25,5.0,"Lower middle (15,000-30,000)",Village,5,2-3 Hours,More than 3 Hours,60%-79%,No,5,Yes,2nd,3.56,3.56
+res_316,Computer Science and Engineering,Male,4.33,5.0,"High (Above 50,000)",Village,3,2-3 Hours,More than 3 Hours,60%-79%,No,5,Yes,2nd,3.56,3.56
+res_317,Computer Science and Engineering,Female,3.83,4.59,"Lower middle (15,000-30,000)",City,3,2-3 Hours,More than 3 Hours,60%-79%,No,3,Yes,2nd,3.56,3.56
+res_318,Computer Science and Engineering,Male,4.17,4.59,"Upper middle (30,000-50,000)",Village,3,2-3 Hours,More than 3 Hours,60%-79%,No,4,No,2nd,3.56,3.56
+res_319,Computer Science and Engineering,Female,4.17,5.0,"Low (Below 15,000) ",Village,3,2-3 Hours,More than 3 Hours,60%-79%,No,3,Yes,2nd,3.56,3.56
+res_320,Computer Science and Engineering,Male,4.0,5.0,"High (Above 50,000)",Village,5,2-3 Hours,More than 3 Hours,60%-79%,No,3,Yes,2nd,3.56,3.56
+res_321,Computer Science and Engineering,Female,4.0,5.0,"High (Above 50,000)",City,3,2-3 Hours,More than 3 Hours,60%-79%,No,3,Yes,2nd,3.56,3.56
+res_322,Computer Science and Engineering,Female,4.42,5.0,"High (Above 50,000) ",City,4,2-3 Hours,More than 3 Hours,60%-79%,No,4,No,2nd,3.56,3.56
+res_323,Computer Science and Engineering,Male,3.92,4.18,"High (Above 50,000)",City,5,2-3 Hours,More than 3 Hours,60%-79%,No,3,Yes,2nd,3.56,3.56
+res_324,Computer Science and Engineering,Male,5.0,5.0,"Low (Below 15,000)",Village,1,0-1 Hour,More than 3 Hours,80%-100%,No,1,No,4th,3.64,3.6
+res_325,Computer Science and Engineering,Female,3.83,5.0,"High (Above 50,000)",City,5,2-3 Hours,More than 3 Hours,60%-79%,No,3,Yes,10th,3.61,3.6
+res_326,Computer Science and Engineering,Male,5.0,5.0,"Low (Below 15,000)",Village,3,2-3 Hours,More than 3 Hours,60%-79%,No,5,Yes,10th,3.62,3.6
+res_327,Computer Science and Engineering,Male,3.92,3.94,"Lower middle (15,000-30,000)",City,5,2-3 Hours,More than 3 Hours,60%-79%,No,3,Yes,9th,3.64,3.6
+res_328,Computer Science and Engineering,Male,3.67,4.44,"High (Above 50,000) ",Village,5,2-3 Hours,More than 3 Hours,60%-79%,No,3,Yes,6th,3.63,3.6
+res_329,Computer Science and Engineering,Male,5.0,5.0,"Upper middle (30,000-50,000)",City,4,More than 3 Hours,2-3 Hours,80%-100%,Yes,5,Yes,4th,3.66,3.61
+res_330,Computer Science and Engineering,Female,4.16,4.67,"Upper middle (30,000-50,000)",City,3,2-3 Hours,More than 3 Hours,80%-100%,No,3,Yes,10th,3.66,3.62
+res_331,Computer Science and Engineering,Male,4.83,5.0,"Lower middle (15,000-30,000)",City,3,2-3 Hours,More than 3 Hours,60%-79%,No,3,Yes,2nd,3.63,3.63
+res_332,Computer Science and Engineering,Female,4.25,5.0,"Lower middle (15,000-30,000)",City,5,2-3 Hours,More than 3 Hours,60%-79%,No,3,Yes,2nd,3.63,3.63
+res_333,Computer Science and Engineering,Male,4.5,5.0,"Lower middle (15,000-30,000)",Village,3,0-1 Hour,2-3 Hours,80%-100%,No,4,No,11th,3.88,3.64
+res_334,Computer Science and Engineering,Male,3.5,4.72,"High (Above 50,000) ",City,3,2-3 Hours,More than 3 Hours,60%-79%,No,3,Yes,2nd,3.64,3.64
+res_335,Computer Science and Engineering,Female,3.75,5.0,"Low (Below 15,000)",Village,5,2-3 Hours,0-1 Hour,80%-100%,No,4,Yes,11th,3.71,3.65
+res_336,Computer Science and Engineering,Female,5.0,5.0,"Upper middle (30,000-50,000)",City,3,2-3 Hours,0-1 Hour,80%-100%,Yes,3,No,4th,3.6,3.65
+res_337,Computer Science and Engineering,Male,4.42,5.0,"High (Above 50,000)",City,4,2-3 Hours,More than 3 Hours,80%-100%,No,4,No,10th,3.53,3.67
+res_338,Computer Science and Engineering,Male,4.5,5.0,"Upper middle (30,000-50,000)",City,5,2-3 Hours,2-3 Hours,60%-79%,No,3,No,10th,3.5,3.67
+res_339,Computer Science and Engineering,Male,4.42,5.0,"Upper middle (30,000-50,000)",Village,5,2-3 Hours,More than 3 Hours,60%-79%,No,5,Yes,10th,3.55,3.67
+res_340,Computer Science and Engineering,Male,3.17,4.31,"High (Above 50,000)",Village,4,2-3 Hours,2-3 Hours,60%-79%,No,3,No,9th,3.5,3.67
+res_341,Computer Science and Engineering,Female,3.67,4.38,"Upper middle (30,000-50,000)",Village,3,2-3 Hours,More than 3 Hours,80%-100%,No,4,No,8th,3.52,3.67
+res_342,Computer Science and Engineering,Male,3.83,4.94,"Upper middle (30,000-50,000)",City,4,2-3 Hours,2-3 Hours,60%-79%,No,3,No,8th,3.51,3.67
+res_343,Computer Science and Engineering,Male,4.33,5.0,"High (Above 50,000)",Village,4,2-3 Hours,More than 3 Hours,80%-100%,No,4,No,8th,3.52,3.67
+res_344,Computer Science and Engineering,Male,4.5,5.0,"Low (Below 15,000) ",Village,3,2-3 Hours,2-3 Hours,60%-79%,No,3,No,6th,3.5,3.67
+res_345,Computer Science and Engineering,Male,4.08,5.0,"High (Above 50,000)",City,5,2-3 Hours,2-3 Hours,60%-79%,No,3,No,6th,3.5,3.67
+res_346,Computer Science and Engineering,Male,5.0,5.0,"Low (Below 15,000) ",City,5,2-3 Hours,2-3 Hours,60%-79%,No,3,No,5th,3.5,3.67
+res_347,Computer Science and Engineering,Female,5.0,5.0,"High (Above 50,000)",City,5,2-3 Hours,More than 3 Hours,80%-100%,No,3,Yes,2nd,3.68,3.68
+res_348,Computer Science and Engineering,Male,4.42,5.0,"Low (Below 15,000)",Village,3,More than 3 Hours,2-3 Hours,80%-100%,No,2,Yes,2nd,3.69,3.69
+res_349,Computer Science and Engineering,Male,4.17,5.0,"Lower middle (15,000-30,000)",Village,3,More than 3 Hours,2-3 Hours,80%-100%,No,2,Yes,2nd,3.69,3.69
+res_350,Computer Science and Engineering,Male,4.0,4.0,"Upper middle (30,000-50,000)",Village,4,More than 3 Hours,2-3 Hours,80%-100%,No,3,Yes,10th,4.0,3.7
+res_351,Computer Science and Engineering,Male,4.17,5.0,"Upper middle (30,000-50,000)",City,4,2-3 Hours,2-3 Hours,80%-100%,Yes,4,Yes,10th,1.82,3.7
+res_352,Computer Science and Engineering,Female,4.25,3.75,"Lower middle (15,000-30,000)",City,5,2-3 Hours,More than 3 Hours,60%-79%,No,3,Yes,10th,3.18,3.7
+res_353,Computer Science and Engineering,Male,3.14,4.44,"Upper middle (30,000-50,000)",City,5,2-3 Hours,More than 3 Hours,60%-79%,No,3,Yes,10th,3.2,3.7
+res_354,Computer Science and Engineering,Female,3.19,4.81,"Low (Below 15,000)",Village,4,2-3 Hours,More than 3 Hours,80%-100%,No,4,No,9th,3.16,3.7
+res_355,Computer Science and Engineering,Female,4.0,5.0,"Lower middle (15,000-30,000)",Village,5,2-3 Hours,More than 3 Hours,60%-79%,No,5,Yes,8th,3.19,3.7
+res_356,Computer Science and Engineering,Male,4.17,5.0,"High (Above 50,000) ",City,3,2-3 Hours,More than 3 Hours,60%-79%,No,3,Yes,7th,3.17,3.7
+res_357,Computer Science and Engineering,Female,3.8,4.78,"High (Above 50,000) ",Village,4,2-3 Hours,More than 3 Hours,60%-79%,No,4,No,6th,3.19,3.7
+res_358,Computer Science and Engineering,Male,3.75,4.78,"High (Above 50,000)",City,4,2-3 Hours,More than 3 Hours,60%-79%,No,4,No,5th,3.17,3.7
+res_359,Computer Science and Engineering,Male,4.5,5.0,"High (Above 50,000)",City,3,0-1 Hour,More than 3 Hours,80%-100%,No,5,Yes,5th,4.0,3.7
+res_360,Computer Science and Engineering,Male,4.17,4.95,"Low (Below 15,000)",Village,3,0-1 Hour,2-3 Hours,80%-100%,No,3,No,2nd,3.7,3.7
+res_361,Computer Science and Engineering,Male,4.67,4.5,"Lower middle (15,000-30,000)",Village,3,0-1 Hour,2-3 Hours,80%-100%,No,3,No,2nd,3.7,3.7
+res_362,Computer Science and Engineering,Male,5.0,5.0,"Low (Below 15,000)",Village,3,2-3 Hours,More than 3 Hours,80%-100%,No,3,No,2nd,3.71,3.71
+res_363,Computer Science and Engineering,Male,5.0,5.0,"Upper middle (30,000-50,000)",Village,4,2-3 Hours,More than 3 Hours,80%-100%,No,3,Yes,10th,3.73,3.71
+res_364,Computer Science and Engineering,Male,3.33,4.75,"High (Above 50,000) ",Village,4,2-3 Hours,More than 3 Hours,80%-100%,No,4,No,9th,3.73,3.71
+res_365,Computer Science and Engineering,Male,3.58,4.78,"Upper middle (30,000-50,000)",Village,3,2-3 Hours,More than 3 Hours,80%-100%,No,4,No,7th,3.74,3.71
+res_366,Computer Science and Engineering,Male,4.42,4.81,"Low (Below 15,000)",Village,4,2-3 Hours,More than 3 Hours,80%-100%,No,4,No,10th,3.68,3.74
+res_367,Computer Science and Engineering,Female,4.5,5.0,"Lower middle (15,000-30,000)",Village,1,2-3 Hours,More than 3 Hours,80%-100%,No,5,Yes,10th,3.68,3.74
+res_368,Computer Science and Engineering,Male,5.0,5.0,"Upper middle (30,000-50,000)",Village,4,2-3 Hours,2-3 Hours,80%-100%,No,3,No,10th,3.85,3.74
+res_369,Computer Science and Engineering,Female,5.0,5.0,"Upper middle (30,000-50,000)",Village,4,2-3 Hours,2-3 Hours,80%-100%,No,4,No,10th,3.85,3.74
+res_370,Computer Science and Engineering,Female,4.0,4.44,"Lower middle (15,000-30,000)",City,4,2-3 Hours,More than 3 Hours,80%-100%,No,4,No,9th,3.66,3.74
+res_371,Computer Science and Engineering,Male,3.4,4.0,"Lower middle (15,000-30,000)",Village,3,More than 3 Hours,2-3 Hours,80%-100%,No,2,Yes,9th,3.7,3.74
+res_372,Computer Science and Engineering,Male,3.58,4.5,"High (Above 50,000)",Village,3,2-3 Hours,More than 3 Hours,80%-100%,No,5,Yes,8th,3.67,3.74
+res_373,Computer Science and Engineering,Female,4.67,5.0,"High (Above 50,000) ",City,5,2-3 Hours,2-3 Hours,80%-100%,Yes,2,No,8th,3.87,3.74
+res_374,Computer Science and Engineering,Male,4.08,5.0,"High (Above 50,000)",City,5,2-3 Hours,More than 3 Hours,80%-100%,No,3,Yes,6th,3.66,3.74
+res_375,Computer Science and Engineering,Male,3.83,4.83,"High (Above 50,000) ",Village,1,2-3 Hours,More than 3 Hours,80%-100%,No,5,Yes,3rd,3.67,3.74
+res_376,Computer Science and Engineering,Female,4.0,5.0,"Lower middle (15,000-30,000)",Village,3,2-3 Hours,2-3 Hours,80%-100%,No,3,No,11th,3.9,3.75
+res_377,Computer Science and Engineering,Female,4.0,5.0,"Low (Below 15,000)",Village,4,0-1 Hour,More than 3 Hours,80%-100%,No,5,No,11th,3.61,3.75
+res_378,Computer Science and Engineering,Male,4.25,5.0,"Low (Below 15,000)",Village,4,0-1 Hour,More than 3 Hours,60%-79%,No,4,No,10th,4.0,3.75
+res_379,Computer Science and Engineering,Male,5.0,5.0,"Lower middle (15,000-30,000)",City,3,0-1 Hour,More than 3 Hours,80%-100%,No,5,Yes,9th,4.0,3.75
+res_380,Computer Science and Engineering,Male,3.42,5.0,"Upper middle (30,000-50,000)",Village,4,0-1 Hour,More than 3 Hours,80%-100%,No,5,Yes,9th,4.0,3.75
+res_381,Computer Science and Engineering,Male,4.08,4.39,"Upper middle (30,000-50,000)",Village,5,0-1 Hour,More than 3 Hours,80%-100%,No,5,Yes,5th,4.0,3.75
+res_382,Computer Science and Engineering,Male,4.0,4.36,"High (Above 50,000) ",Village,3,0-1 Hour,More than 3 Hours,80%-100%,No,5,Yes,3rd,4.0,3.75
+res_383,Computer Science and Engineering,Female,3.92,4.89,"Lower middle (15,000-30,000)",City,3,0-1 Hour,2-3 Hours,80%-100%,No,3,No,2nd,3.75,3.75
+res_384,Computer Science and Engineering,Male,4.5,5.0,"Upper middle (30,000-50,000)",City,3,0-1 Hour,2-3 Hours,80%-100%,No,3,No,2nd,3.75,3.75
+res_385,Computer Science and Engineering,Female,4.0,4.83,"High (Above 50,000)",Village,4,0-1 Hour,2-3 Hours,80%-100%,No,4,No,2nd,3.75,3.75
+res_386,Computer Science and Engineering,Female,4.17,4.83,"Lower middle (15,000-30,000)",City,4,0-1 Hour,2-3 Hours,80%-100%,No,3,No,2nd,3.75,3.75
+res_387,Computer Science and Engineering,Male,4.25,4.72,"High (Above 50,000)",City,3,0-1 Hour,2-3 Hours,80%-100%,No,5,Yes,2nd,3.75,3.75
+res_388,Computer Science and Engineering,Female,3.5,5.0,"Lower middle (15,000-30,000)",City,3,0-1 Hour,2-3 Hours,80%-100%,No,3,No,2nd,3.75,3.75
+res_389,Computer Science and Engineering,Male,4.25,5.0,"High (Above 50,000) ",City,5,0-1 Hour,2-3 Hours,80%-100%,Yes,2,No,2nd,3.75,3.75
+res_390,Computer Science and Engineering,Female,3.92,5.0,"Lower middle (15,000-30,000)",City,5,0-1 Hour,2-3 Hours,80%-100%,No,3,No,2nd,3.75,3.75
+res_391,Computer Science and Engineering,Female,5.0,5.0,"Upper middle (30,000-50,000)",City,2,2-3 Hours,2-3 Hours,80%-100%,No,4,No,4th,3.66,3.76
+res_392,Computer Science and Engineering,Male,4.58,5.0,"Upper middle (30,000-50,000)",Village,4,2-3 Hours,2-3 Hours,80%-100%,No,4,No,10th,3.89,3.78
+res_393,Computer Science and Engineering,Female,5.0,5.0,"Upper middle (30,000-50,000)",City,5,2-3 Hours,0-1 Hour,80%-100%,No,3,Yes,10th,3.88,3.78
+res_394,Computer Science and Engineering,Male,4.25,5.0,"High (Above 50,000)",Village,2,2-3 Hours,0-1 Hour,80%-100%,No,3,Yes,5th,3.88,3.78
+res_395,Computer Science and Engineering,Male,4.75,5.0,"Lower middle (15,000-30,000)",Village,4,0-1 Hour,More than 3 Hours,80%-100%,Yes,3,Yes,10th,3.75,3.8
+res_396,Computer Science and Engineering,Male,5.0,5.0,"Lower middle (15,000-30,000)",City,5,0-1 Hour,More than 3 Hours,80%-100%,No,4,No,4th,3.9,3.8
+res_397,Computer Science and Engineering,Male,3.83,4.69,"Upper middle (30,000-50,000)",Village,5,0-1 Hour,2-3 Hours,80%-100%,No,4,No,10th,3.9,3.8
+res_398,Computer Science and Engineering,Male,4.5,4.61,"High (Above 50,000)",City,5,0-1 Hour,0-1 Hour,80%-100%,No,3,Yes,6th,3.93,3.8
+res_399,Computer Science and Engineering,Female,4.42,4.77,"Low (Below 15,000)",Village,3,0-1 Hour,0-1 Hour,80%-100%,No,3,Yes,3rd,3.92,3.8
+res_400,Computer Science and Engineering,Female,4.08,5.0,"Lower middle (15,000-30,000)",Village,4,More than 3 Hours,More than 3 Hours,80%-100%,No,5,Yes,2nd,3.81,3.81
+res_401,Computer Science and Engineering,Female,4.08,4.82,"Lower middle (15,000-30,000)",City,5,More than 3 Hours,More than 3 Hours,80%-100%,No,5,Yes,2nd,3.81,3.81
+res_402,Computer Science and Engineering,Female,4.5,4.95,"Upper middle (30,000-50,000)",City,5,More than 3 Hours,More than 3 Hours,80%-100%,No,5,Yes,2nd,3.81,3.81
+res_403,Computer Science and Engineering,Male,5.0,5.0,"Lower middle (15,000-30,000)",Village,5,More than 3 Hours,More than 3 Hours,80%-100%,No,5,Yes,2nd,3.81,3.81
+res_404,Computer Science and Engineering,Male,4.17,4.95,"Lower middle (15,000-30,000)",City,5,More than 3 Hours,More than 3 Hours,80%-100%,No,5,Yes,2nd,3.81,3.81
+res_405,Computer Science and Engineering,Female,4.17,5.0,"Lower middle (15,000-30,000)",City,5,More than 3 Hours,More than 3 Hours,80%-100%,No,5,Yes,2nd,3.81,3.81
+res_406,Computer Science and Engineering,Female,4.33,4.59,"High (Above 50,000)",City,5,More than 3 Hours,More than 3 Hours,80%-100%,No,5,Yes,2nd,3.81,3.81
+res_407,Computer Science and Engineering,Male,3.83,5.0,"Lower middle (15,000-30,000)",City,4,More than 3 Hours,More than 3 Hours,80%-100%,No,5,Yes,2nd,3.81,3.81
+res_408,Computer Science and Engineering,Male,4.42,4.68,"High (Above 50,000)",Village,3,0-1 Hour,0-1 Hour,80%-100%,No,3,Yes,2nd,3.84,3.84
+res_409,Computer Science and Engineering,Male,4.83,4.89,"Lower middle (15,000-30,000)",City,3,2-3 Hours,0-1 Hour,80%-100%,No,4,No,5th,3.67,3.87
+res_410,Computer Science and Engineering,Female,5.0,4.61,"Lower middle (15,000-30,000)",Village,1,2-3 Hours,2-3 Hours,80%-100%,No,3,No,2nd,3.88,3.88
+res_411,Computer Science and Engineering,Female,4.08,5.0,"Low (Below 15,000)",City,5,2-3 Hours,0-1 Hour,80%-100%,No,3,Yes,2nd,3.88,3.88
+res_412,Computer Science and Engineering,Male,4.5,4.89,"High (Above 50,000) ",Village,3,2-3 Hours,0-1 Hour,80%-100%,No,3,Yes,2nd,3.88,3.88
+res_413,Computer Science and Engineering,Female,5.0,5.0,"Lower middle (15,000-30,000)",City,2,2-3 Hours,0-1 Hour,80%-100%,No,3,Yes,2nd,3.88,3.88
+res_414,Computer Science and Engineering,Male,4.42,5.0,"High (Above 50,000)",City,3,2-3 Hours,0-1 Hour,80%-100%,Yes,5,No,2nd,3.88,3.88
+res_415,Computer Science and Engineering,Male,4.25,5.0,"Low (Below 15,000)",Village,5,2-3 Hours,0-1 Hour,80%-100%,No,3,Yes,2nd,3.88,3.88
+res_416,Computer Science and Engineering,Male,5.0,5.0,"Lower middle (15,000-30,000)",City,5,2-3 Hours,0-1 Hour,80%-100%,No,3,Yes,2nd,3.88,3.88
+res_417,Computer Science and Engineering,Male,5.0,5.0,"Lower middle (15,000-30,000)",Village,4,2-3 Hours,2-3 Hours,80%-100%,No,4,Yes,2nd,3.89,3.89
+res_418,Computer Science and Engineering,Female,5.0,5.0,"Low (Below 15,000)",Village,1,More than 3 Hours,2-3 Hours,80%-100%,No,1,No,2nd,3.91,3.91
+res_419,Computer Science and Engineering,Female,5.0,5.0,"High (Above 50,000)",Village,3,0-1 Hour,0-1 Hour,80%-100%,No,3,Yes,2nd,3.93,3.93
+res_420,Computer Science and Engineering,Female,4.17,5.0,"High (Above 50,000)",City,4,2-3 Hours,0-1 Hour,80%-100%,No,3,Yes,10th,3.94,3.94
+res_421,Computer Science and Engineering,Female,5.0,5.0,"Upper middle (30,000-50,000)",City,5,2-3 Hours,0-1 Hour,80%-100%,No,3,Yes,10th,3.97,3.94
+res_422,Computer Science and Engineering,Male,4.75,5.0,"Lower middle (15,000-30,000)",City,5,2-3 Hours,0-1 Hour,80%-100%,No,3,Yes,10th,3.94,3.94
+res_423,Computer Science and Engineering,Male,5.0,5.0,"Lower middle (15,000-30,000)",Village,5,2-3 Hours,0-1 Hour,80%-100%,Yes,5,No,6th,3.98,3.94
+res_424,Computer Science and Engineering,Female,4.3,5.0,"Upper middle (30,000-50,000)",Village,5,2-3 Hours,0-1 Hour,80%-100%,No,3,Yes,6th,3.94,3.94
+res_425,Computer Science and Engineering,Male,3.81,4.39,"Upper middle (30,000-50,000)",Village,3,2-3 Hours,0-1 Hour,80%-100%,No,3,Yes,2nd,3.94,3.94
+res_426,Computer Science and Engineering,Male,4.0,4.39,"High (Above 50,000)  ",Village,2,2-3 Hours,0-1 Hour,80%-100%,No,3,Yes,2nd,3.94,3.94
+res_427,Computer Science and Engineering,Female,4.42,5.0,"High (Above 50,000)",City,3,2-3 Hours,0-1 Hour,80%-100%,No,3,Yes,2nd,3.94,3.94
+res_428,Computer Science and Engineering,Male,4.17,4.82,"Lower middle (15,000-30,000)",Village,2,2-3 Hours,0-1 Hour,80%-100%,No,3,Yes,2nd,3.94,3.94
+res_429,Computer Science and Engineering,Male,3.75,4.78,"Upper middle (30,000-50,000)",City,2,2-3 Hours,0-1 Hour,80%-100%,No,3,Yes,2nd,3.94,3.94
+res_430,Computer Science and Engineering,Male,4.42,4.95,"Upper middle (30,000-50,000)",Village,2,2-3 Hours,0-1 Hour,80%-100%,No,3,Yes,2nd,3.94,3.94
+res_431,Computer Science and Engineering,Female,5.0,5.0,"High (Above 50,000)",Village,5,2-3 Hours,0-1 Hour,80%-100%,No,3,Yes,2nd,3.94,3.94
+res_432,Computer Science and Engineering,Female,4.0,4.68,"Lower middle (15,000-30,000)",City,5,2-3 Hours,0-1 Hour,80%-100%,No,3,Yes,2nd,3.94,3.94
+res_433,Computer Science and Engineering,Male,4.5,4.75,"Upper middle (30,000-50,000)",Village,1,More than 3 Hours,0-1 Hour,80%-100%,No,4,No,8th,4.0,3.95
+res_434,Computer Science and Engineering,Male,5.0,5.0,"Lower middle (15,000-30,000)",City,4,2-3 Hours,2-3 Hours,80%-100%,No,4,Yes,4th,4.0,3.96
+res_435,Computer Science and Engineering,Male,4.58,5.0,"Lower middle (15,000-30,000)",City,5,0-1 Hour,More than 3 Hours,80%-100%,No,3,No,11th,4.0,3.98
+res_436,Computer Science and Engineering,Male,5.0,5.0,"Upper middle (30,000-50,000)",City,5,0-1 Hour,More than 3 Hours,60%-79%,No,4,Yes,4th,4.0,4.0
+res_437,Computer Science and Engineering,Female,5.0,5.0,"High (Above 50,000)",City,3,2-3 Hours,More than 3 Hours,80%-100%,No,4,No,3rd,4.0,4.0
+res_438,Computer Science and Engineering,Male,5.0,5.0,"Low (Below 15,000)",Village,4,0-1 Hour,More than 3 Hours,80%-100%,No,5,No,2nd,4.0,4.0
+res_439,Computer Science and Engineering,Male,5.0,5.0,"Low (Below 15,000)",Village,5,0-1 Hour,More than 3 Hours,80%-100%,No,3,No,2nd,4.0,4.0
+res_440,Computer Science and Engineering,Male,5.0,5.0,"Low (Below 15,000)",City,3,2-3 Hours,2-3 Hours,80%-100%,No,3,No,2nd,4.0,4.0
+res_441,Computer Science and Engineering,Male,4.58,5.0,"High (Above 50,000)",City,5,0-1 Hour,More than 3 Hours,80%-100%,No,5,Yes,2nd,4.0,4.0
+res_442,Computer Science and Engineering,Female,4.92,5.0,"High (Above 50,000)",City,3,0-1 Hour,More than 3 Hours,80%-100%,No,5,Yes,2nd,4.0,4.0
+res_443,Computer Science and Engineering,Male,4.33,5.0,"Lower middle (15,000-30,000)",Village,3,0-1 Hour,More than 3 Hours,80%-100%,No,5,Yes,2nd,4.0,4.0
+res_444,Computer Science and Engineering,Male,5.0,5.0,"Lower middle (15,000-30,000)",City,3,0-1 Hour,More than 3 Hours,80%-100%,No,5,Yes,2nd,4.0,4.0
+res_445,Computer Science and Engineering,Female,5.0,5.0,"Lower middle (15,000-30,000)",Village,3,0-1 Hour,More than 3 Hours,80%-100%,No,5,Yes,2nd,4.0,4.0
+res_446,Computer Science and Engineering,Female,5.0,5.0,"Lower middle (15,000-30,000)",City,5,0-1 Hour,More than 3 Hours,80%-100%,No,5,Yes,2nd,4.0,4.0
+res_447,Computer Science and Engineering,Female,4.17,5.0,"Upper middle (30,000-50,000)",Village,4,0-1 Hour,More than 3 Hours,80%-100%,No,5,Yes,2nd,4.0,4.0
+res_448,Economics,Male,4.17,5.0,"Lower middle (15,000-30,000)",Village,3,0-1 Hour,More than 3 Hours,80%-100%,No,3,Yes,11th,3.14,3.7
+res_449,Economics,Male,4.75,4.83,"Low (Below 15,000)",Village,2,0-1 Hour,More than 3 Hours,60%-79%,No,2,Yes,4th,3.66,3.74
+res_450,Economics,Male,4.9,5.0,"High (Above 50,000)",City,4,2-3 Hours,2-3 Hours,80%-100%,No,4,Yes,10th,3.8,3.75
+res_451,Economics,Male,5.0,4.83,"Lower middle (15,000-30,000)",Village,2,0-1 Hour,0-1 Hour,80%-100%,No,3,Yes,2nd,4.0,4.0
+res_452,Electrical and Electronic Engineering,Male,3.42,4.33,"Lower middle (15,000-30,000)",City,4,2-3 Hours,2-3 Hours,80%-100%,Yes,2,Yes,7th,3.83,2.97
+res_453,English,Female,3.5,4.2,"Upper middle (30,000-50,000)",City,2,More than 3 Hours,More than 3 Hours,60%-79%,No,2,Yes,6th,3.25,3.15
+res_454,English,Male,4.33,4.39,"Lower middle (15,000-30,000)",Village,4,2-3 Hours,2-3 Hours,80%-100%,No,4,No,4th,3.25,3.32
+res_455,English,Female,4.5,4.0,"Upper middle (30,000-50,000)",City,2,2-3 Hours,0-1 Hour,60%-79%,No,3,Yes,7th,3.33,3.33
+res_456,English,Male,3.58,4.88,"Lower middle (15,000-30,000)",Village,3,0-1 Hour,2-3 Hours,60%-79%,No,4,Yes,11th,3.35,3.45
+res_457,English,Female,5.0,5.0,"Lower middle (15,000-30,000)",Village,1,More than 3 Hours,2-3 Hours,80%-100%,No,3,Yes,5th,3.43,3.47
+res_458,English,Female,5.0,5.0,"Low (Below 15,000)",Village,1,0-1 Hour,More than 3 Hours,80%-100%,No,5,No,3rd,3.55,3.47
+res_459,English,Female,5.0,5.0,"Low (Below 15,000)",City,1,0-1 Hour,2-3 Hours,80%-100%,No,3,No,3rd,3.58,3.56
+res_460,English,Male,4.25,4.41,"Upper middle (30,000-50,000)",Village,4,2-3 Hours,0-1 Hour,80%-100%,No,4,Yes,12th,3.66,3.6
+res_461,English,Female,4.25,5.0,"Lower middle (15,000-30,000)",Village,3,0-1 Hour,2-3 Hours,80%-100%,No,4,Yes,10th,3.75,3.68
+res_462,English,Female,4.25,5.0,"Lower middle (15,000-30,000)",City,4,2-3 Hours,2-3 Hours,80%-100%,No,4,No,10th,3.85,3.74
+res_463,English,Female,4.25,4.68,"High (Above 50,000)",City,5,More than 3 Hours,More than 3 Hours,80%-100%,No,5,Yes,3rd,3.71,3.75
+res_464,English,Male,5.0,5.0,"Lower middle (15,000-30,000)",City,2,0-1 Hour,0-1 Hour,80%-100%,No,4,Yes,4th,3.93,3.8
+res_465,English,Female,4.58,5.0,"Lower middle (15,000-30,000)",Village,5,2-3 Hours,More than 3 Hours,80%-100%,No,5,Yes,3rd,3.83,3.83
+res_466,English,Male,5.0,5.0,"Lower middle (15,000-30,000)",Village,2,2-3 Hours,More than 3 Hours,80%-100%,No,3,Yes,4th,4.0,3.93
+res_467,"Journalism, Communication and Media Studies",Male,3.27,4.82,"Upper middle (30,000-50,000)",City,2,0-1 Hour,2-3 Hours,40%-59%,No,3,Yes,2nd,2.25,2.25
+res_468,"Journalism, Communication and Media Studies",Female,4.67,4.56,"Upper middle (30,000-50,000)",City,3,2-3 Hours,More than 3 Hours,60%-79%,No,4,No,2nd,2.5,2.5
+res_469,"Journalism, Communication and Media Studies",Male,3.83,3.0,"Low (Below 15,000)",Village,2,2-3 Hours,More than 3 Hours,80%-100%,No,3,Yes,3rd,3.17,3.0
+res_470,"Journalism, Communication and Media Studies",Male,4.42,3.94,"Lower middle (15,000-30,000)",Village,5,2-3 Hours,More than 3 Hours,80%-100%,No,5,No,2nd,3.09,3.09
+res_471,"Journalism, Communication and Media Studies",Female,4.5,4.28,"Lower middle (15,000-30,000)",Village,2,2-3 Hours,0-1 Hour,80%-100%,No,2,Yes,2nd,3.17,3.17
+res_472,"Journalism, Communication and Media Studies",Female,3.08,3.33,"Lower middle (15,000-30,000)",Village,3,2-3 Hours,More than 3 Hours,60%-79%,No,3,No,3rd,2.17,3.5
+res_473,"Journalism, Communication and Media Studies",Male,4.53,3.91,"Low (Below 15,000)",Village,5,0-1 Hour,0-1 Hour,80%-100%,No,2,Yes,3rd,3.83,3.5
+res_474,"Journalism, Communication and Media Studies",Female,4.5,4.34,"High (Above 50,000)",Village,3,More than 3 Hours,0-1 Hour,80%-100%,No,5,Yes,2nd,3.5,3.5
+res_475,"Journalism, Communication and Media Studies",Male,4.0,4.0,"Upper middle (30,000-50,000)",City,3,2-3 Hours,More than 3 Hours,80%-100%,No,3,Yes,12th,3.56,3.6
+res_476,"Journalism, Communication and Media Studies",Female,2.85,3.64,"Low (Below 15,000)",City,4,2-3 Hours,More than 3 Hours,80%-100%,Yes,3,Yes,6th,3.5,3.67
+res_477,"Journalism, Communication and Media Studies",Male,4.0,4.33,"Upper middle (30,000-50,000)",City,3,2-3 Hours,0-1 Hour,80%-100%,No,3,Yes,11th,3.88,3.78
+res_478,"Journalism, Communication and Media Studies",Male,3.17,3.17,"Lower middle (15,000-30,000)",City,3,0-1 Hour,More than 3 Hours,80%-100%,No,3,Yes,3rd,3.83,3.8
+res_479,"Journalism, Communication and Media Studies",Female,4.42,4.72,"Lower middle (15,000-30,000)",City,4,0-1 Hour,2-3 Hours,80%-100%,No,3,Yes,12th,4.0,4.0
+res_480,Law and Human Rights,Female,5.0,5.0,"Low (Below 15,000)",Village,1,More than 3 Hours,2-3 Hours,80%-100%,No,4,Yes,2nd,3.69,3.69
+res_481,Law and Human Rights,Female,3.58,4.86,"Lower middle (15,000-30,000)",Village,1,0-1 Hour,2-3 Hours,60%-79%,No,1,Yes,4th,3.9,3.79
+res_482,Political Science,Female,3.5,4.0,"Upper middle (30,000-50,000)",City,2,More than 3 Hours,More than 3 Hours,80%-100%,Yes,5,No,10th,3.15,2.85
+res_483,Political Science,Male,5.0,4.94,"High (Above 50,000)",City,5,0-1 Hour,2-3 Hours,Below 40%,No,4,Yes,2nd,3.31,3.31
+res_484,Political Science,Male,5.0,4.68,"Low (Below 15,000)",City,5,More than 3 Hours,More than 3 Hours,80%-100%,No,5,Yes,5th,3.56,3.56
+res_485,Political Science,Female,4.25,3.72,"Lower middle (15,000-30,000)",Village,1,0-1 Hour,More than 3 Hours,80%-100%,Yes,1,Yes,2nd,3.68,3.68
+res_486,Political Science,Female,5.0,4.89,"High (Above 50,000)",Village,2,2-3 Hours,2-3 Hours,80%-100%,No,2,Yes,3rd,3.88,3.88
+res_487,Political Science,Male,5.0,4.78,"Lower middle (15,000-30,000)",Village,1,2-3 Hours,0-1 Hour,80%-100%,No,1,Yes,2nd,3.94,3.94
+res_488,Public Health,Male,3.5,4.0,"Lower middle (15,000-30,000)",Village,2,More than 3 Hours,2-3 Hours,40%-59%,Yes,2,Yes,7th,3.25,3.1
+res_489,Public Health,Male,4.5,4.0,"Upper middle (30,000-50,000)",City,4,2-3 Hours,2-3 Hours,60%-79%,No,3,Yes,9th,3.5,3.67
+res_490,Sociology,Female,4.56,3.67,"Lower middle (15,000-30,000)",City,3,0-1 Hour,2-3 Hours,40%-59%,No,2,No,2nd,3.56,3.56
+res_491,Sociology,Male,4.23,4.5,"Low (Below 15,000)",Village,3,More than 3 Hours,2-3 Hours,80%-100%,No,3,Yes,10th,3.61,3.75
+res_492,Sociology,Female,3.83,5.0,"Lower middle (15,000-30,000)",Village,3,More than 3 Hours,2-3 Hours,80%-100%,No,4,Yes,12th,4.0,3.86

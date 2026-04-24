@@ -1,0 +1,6 @@
+pandas
+fastapi
+uvicorn[standard]
+scikit-learn
+numpy
+python-dotenv

@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+.pipeline_state.json
+node_modules/
+.next/
